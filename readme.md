@@ -15,8 +15,8 @@
 - Building frontend projects using **HTML, CSS, JavaScript, React**
 - Exploring **APIs and backend basics** with Node.js & Express
 - Learning **AI & ML fundamentals** as part of my CSE specialization
-- Customizing and working with **Linux systems** (Arch / BSD / Hyprland)
-- Improving problem-solving through **CS fundamentals** (DSA, OS, Systems)
+- Working with **Linux systems** (Arch / FreeBSD / Hyprland)
+- Strengthening **core CS fundamentals** (DSA, OS, Systems)
 
 ---
 
@@ -66,14 +66,14 @@
 ## 🟩 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🤖 Interested in the intersection of **AI, systems, and user-centric design**
+- 🤖 Interested in **AI, systems, and user-centric design**
 - 🧠 Exploring **Prompt Engineering** and real-world LLM integration
 - 🖥️ Enjoy building **full-stack apps** and custom Linux setups
 - 📚 Strong believer in mastering **core CS fundamentals**
@@ -89,8 +89,8 @@
 ## 🤝 Let’s Connect
 
 - GitHub: https://github.com/charveemasand108
-- LinkedIn: 
-https://www.linkedin.com/in/charvee108/
+- LinkedIn: https://www.linkedin.com/in/charvee108/
+
 
 ---
 
