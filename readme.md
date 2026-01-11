@@ -1,3 +1,9 @@
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=4F7BFF&center=true&vCenter=true&width=800&height=120&lines=Charvee+Masand"
+    alt="Charvee Masand Pixel Animation"
+  />
+</p>
 
 
 
@@ -5,18 +11,7 @@
 
 # 💫 About Me:
 ### 👤 About Me<br><br><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Press+Start+2P
-&size=30
-&pause=1000
-&color=4F7BFF
-&center=true
-&vCenter=true
-&width=800
-&height=120
-&lines=CHARVEE+MASAND"
-  alt="Charvee Masand Pixel Animation" />
-</p>
+
 
 - 🔭 I’m currently working on **frontend projects, API-based apps, and small AI/ML experiments**  
 - 🤝 I’m looking to collaborate on **open-source projects and beginner-friendly full-stack ideas**  
@@ -89,6 +84,7 @@ font=Press+Start+2P
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
