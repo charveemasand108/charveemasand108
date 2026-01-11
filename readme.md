@@ -64,17 +64,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true" />
 </p>
-## 📌 GitHub Profile Summary
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charveemasand108&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charveemasand108&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=github-dark&hide_border=true" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
