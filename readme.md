@@ -1,19 +1,23 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-type=waving
-&text=Charvee%20Masand
-&fontSize=60
-&fontAlignY=35
-&animation=fadeIn
-&color=gradient"
-  />
-</p>
+
 
 
 
 
 # 💫 About Me:
-### 👤 About Me<br><br>
+### 👤 About Me<br><br><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+font=Press+Start+2P
+&size=30
+&pause=1000
+&color=4F7BFF
+&center=true
+&vCenter=true
+&width=800
+&height=120
+&lines=CHARVEE+MASAND"
+  alt="Charvee Masand Pixel Animation" />
+</p>
+
 - 🔭 I’m currently working on **frontend projects, API-based apps, and small AI/ML experiments**  
 - 🤝 I’m looking to collaborate on **open-source projects and beginner-friendly full-stack ideas**  
 - 🆘 I’m looking for help with **advanced system design, backend scalability, and ML pipelines**  
@@ -85,6 +89,7 @@ type=waving
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
