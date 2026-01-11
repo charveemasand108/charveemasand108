@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?
+type=waving
+&text=Charvee%20Masand
+&fontSize=60
+&fontAlignY=35
+&animation=fadeIn
+&color=gradient"
+  />
+</p>
+
+
+
+
 # 💫 About Me:
 ### 👤 About Me<br><br>
 - 🔭 I’m currently working on **frontend projects, API-based apps, and small AI/ML experiments**  
@@ -71,6 +85,7 @@
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
