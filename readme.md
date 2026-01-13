@@ -5,7 +5,6 @@
   />
 </p>
 
-<a href="https://u8views.com/github/charveemasand108"><img src="https://u8views.com/api/v1/github/profiles/205929780/views/day-week-month-total-count.svg"></a>
 
 
 
@@ -102,6 +101,7 @@
     width="48%"
   />
 </p>
+
 
 
 
