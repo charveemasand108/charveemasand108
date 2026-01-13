@@ -26,18 +26,18 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charvee.masand@gmail.com)
 
 ---
-<div class="icon-grid">
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-</div>
+<section class="tech-stack">
+  <h2>💻 Tech Stack</h2>
+  <img 
+    src="https://skillicons.dev/icons?i=
+c,cpp,java,cs,python,
+react,html,tailwind,js,ts,nodejs,nextjs,
+docker,mongodb,firebase,git,github,
+aws,gcp,linux,arduino,raspberrypi,
+vscode,postman
+&perline=10"
+  />
+</section>
 
 ---
 
@@ -80,6 +80,7 @@
     width="48%"
   />
 </p>
+
 
 
 
