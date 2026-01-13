@@ -26,18 +26,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charvee.masand@gmail.com)
 
 ---
-<section class="tech-stack">
-  <h2>💻 Tech Stack</h2>
-  <img 
-    src="https://skillicons.dev/icons?i=
-c,cpp,java,cs,python,
-react,html,tailwind,js,ts,nodejs,nextjs,
-docker,mongodb,firebase,git,github,
-aws,gcp,linux,arduino,raspberrypi,
-vscode,postman
-&perline=10"
-  />
-</section>
+## 💻 Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,cs,python,react,html,tailwind,js,ts,nodejs,nextjs,docker,mongodb,firebase,git,github,aws,gcp,linux,arduino,raspberrypi,vscode,postman&perline=10)
+
 
 ---
 
@@ -80,6 +72,7 @@ vscode,postman
     width="48%"
   />
 </p>
+
 
 
 
