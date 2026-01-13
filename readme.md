@@ -84,6 +84,31 @@
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 📊 Extended GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=tokyonight" 
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=tokyonight" 
+    alt="Repos per Language"
+    width="48%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charveemasand108&theme=tokyonight" 
+    alt="GitHub Stats"
+    width="48%"
+  />
+</p>
+
+
 
 
 
