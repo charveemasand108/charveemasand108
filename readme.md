@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Pacman-style contribution animation" />
 </p>
-## 📈 Contribution Graph
+##   📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true" />
@@ -72,6 +72,7 @@
     width="48%"
   />
 </p>
+
 
 
 
