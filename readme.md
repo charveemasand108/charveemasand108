@@ -53,9 +53,7 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=charveemasand108&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-/>
+
 
 <br/><br/>
 
@@ -65,9 +63,7 @@
 
 <br/><br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=charveemasand108&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
-/>
+
 
 </div>
 
@@ -116,5 +112,6 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
