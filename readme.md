@@ -51,17 +51,26 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=charveemasand108&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=charveemasand108&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=charveemasand108&theme=dark&hide_border=false" /><br/><br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charveemasand108&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img
+  src="https://nirzak-streak-stats.vercel.app/?user=charveemasand108&theme=dark&hide_border=true&cache_seconds=86400"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=charveemasand108&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
+/>
 
 </div>
 
----
 
 <div align="center">
 
@@ -107,3 +116,4 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
