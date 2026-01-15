@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<div align="center">
+<h2>📊 GitHub Stats</h2>
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=charveemasand108&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
@@ -116,4 +116,5 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
