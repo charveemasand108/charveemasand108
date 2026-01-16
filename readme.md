@@ -54,10 +54,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=charveemasand108&show_icons=true"
-  />
+  <img src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/main/assets/github-stats.svg" />
 </p>
+
 
 ## 🟡 Pac-Man Activity
 
@@ -101,6 +100,7 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
