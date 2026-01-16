@@ -54,15 +54,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/main/assets/github-stats.svg" />
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="./assets/github-streak.svg" alt="GitHub Streak" />
+</p>
 
-## 🟡 Pac-Man Activity
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Pacman-style contribution animation" />
-
-</div>
+<p align="center">
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
+</p>
 
 ---
 
@@ -100,6 +101,7 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
