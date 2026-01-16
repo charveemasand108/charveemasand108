@@ -47,27 +47,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="./assets/github-streak.svg" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="./assets/top-langs.svg" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
 
 ## 📈 Contribution Graph
 
@@ -101,6 +80,7 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
