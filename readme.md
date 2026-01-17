@@ -17,14 +17,6 @@ who loves to contribute to the
 🤝 Open to **open-source collaborations & internships**  
 ⚡ Passionate about **clean UI, fast shipping, and good engineering**
 
-### 🧩 My Skills
-
-**Languages:** JavaScript, TypeScript, Python, Java  
-**Frontend:** React, Next.js, TailwindCSS  
-**Backend:** Node.js, Express  
-**Databases:** PostgreSQL, MySQL, Firebase  
-**Tools:** Git, GitHub, Linux, Figma
-
 </td>
 <td width="45%" align="center">
 
@@ -37,6 +29,14 @@ who loves to contribute to the
 </td>
 </tr>
 </table>
+
+---
+
+## 🧩 My Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,tailwind,nodejs,express,postgres,mysql,firebase,git,github,linux,figma&perline=8" />
+</p>
 
 ---
 
