@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![Girl coding on MacBook](https://user-images.githubusercontent.com/74038190/212750260-6b7b4b4a-5b68-4c4b-9a3b-9b5c5e9b9a1f.png)
+<img>![Girl coding on MacBook](https://user-images.githubusercontent.com/74038190/212750260-6b7b4b4a-5b68-4c4b-9a3b-9b5c5e9b9a1f.png)</img>
 
 
 </div>
@@ -92,4 +92,5 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
