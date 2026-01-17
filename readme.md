@@ -1,89 +1,97 @@
-<!-- =========================
-        HERO SECTION
-========================= -->
+<div align="center">
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=4F7BFF&center=true&vCenter=true&width=800&height=120&lines=Charvee+Masand"
+    alt="Charvee Masand Pixel Animation"
+  />
 
-## Hi, I'm **Charvee Masand** 👋  
+</div>
 
-I'm an enthusiastic **Techie** and a **Developer**  
-who loves to contribute to the  
-**Open Source Community** 💙  
+---
 
-🌱 Currently learning **AI / ML fundamentals & modern web development**  
-🔭 Working on **frontend projects, APIs, and small AI/ML experiments**  
-🤝 Open to **open-source collaborations & internships**  
-⚡ Passionate about **clean UI, fast shipping, and good engineering**
+<div align="center">
 
-</td>
-<td width="45%" align="center">
+## 💫 About Me
+
+</div>
+
+<div align="center">
+
+🔭 I’m currently working on **frontend projects, API-based apps, and small AI/ML experiments**  
+🤝 I’m looking to collaborate on **open-source projects and beginner-friendly full-stack ideas**  
+🆘 I’m looking for help with **advanced system design, backend scalability, and ML pipelines**  
+🌱 I’m currently learning **AI & ML fundamentals, system internals, and modern web development**  
+💬 Ask me about **JavaScript, APIs, React basics, Linux setups (Arch/FreeBSD), or CS fundamentals**  
+⚡ Fun fact: **Programming is 40% coding, 60% debugging — and 100% problem solving**
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <img
   src="https://user-images.githubusercontent.com/74038190/212750260-6b7b4b4a-5b68-4c4b-9a3b-9b5c5e9b9a1f.png"
-  width="340"
+  width="320"
   alt="Girl coding on MacBook"
 />
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🧩 My Skills
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,tailwind,nodejs,express,postgres,mysql,firebase,git,github,linux,figma&perline=8" />
-</p>
+## 🌐 Socials
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charvee108/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charvee.masand@gmail.com)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=charveemasand108&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff" />
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=charveemasand108&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=ffffff" />
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=charveemasand108&hide_border=true&background=00000000&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=ffffff"
-  />
-</p>
+## 💻 Tech Stack
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,react,html,tailwind,js,ts,nodejs,nextjs,docker,mongodb,firebase,git,github,aws,gcp,linux,arduino,raspberrypi,vscode,postman&perline=10" />
 
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&bg_color=00000000&color=8B5CF6&line=EC4899&point=ffffff&hide_border=true"
-  />
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:charveemasand@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-✨ <i>Code. Learn. Build. Repeat.</i> ✨
-</p>
+<div align="center">
+
+## 📊 Extended GitHub Analytics
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=tokyonight"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=tokyonight"
+  width="48%"
+/>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charveemasand108&theme=tokyonight"
+  width="48%"
+/>
+
+</div>
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
