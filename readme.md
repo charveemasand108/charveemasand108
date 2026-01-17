@@ -12,14 +12,10 @@ I'm an enthusiastic **Techie** and a **Developer**
 who loves to contribute to the  
 **Open Source Community** 💙  
 
-<br/>
-
 🌱 Currently learning **AI / ML fundamentals & modern web development**  
 🔭 Working on **frontend projects, APIs, and small AI/ML experiments**  
 🤝 Open to **open-source collaborations & internships**  
 ⚡ Passionate about **clean UI, fast shipping, and good engineering**
-
-<br/>
 
 ### 🧩 My Skills
 
@@ -32,7 +28,11 @@ who loves to contribute to the
 </td>
 <td width="45%" align="center">
 
-<img src="./assets/girl-macbook.png" width="340" alt="Girl coding on MacBook"/>
+<img 
+  src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/main/assets/girl-macbook.png" 
+  width="340" 
+  alt="Girl coding on MacBook"
+/>
 
 </td>
 </tr>
@@ -57,6 +57,14 @@ who loves to contribute to the
 
 ---
 
+## 🧮 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&bg_color=00000000&color=8B5CF6&line=EC4899&point=ffffff&hide_border=true" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -71,5 +79,5 @@ who loves to contribute to the
 ---
 
 <p align="center">
-✨ *“Code. Learn. Build. Repeat.”* ✨
+✨ <i>Code. Learn. Build. Repeat.</i> ✨
 </p>
