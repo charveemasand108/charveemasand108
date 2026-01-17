@@ -32,13 +32,15 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Person%20Technologist/Default/3D/person_technologist_3d_default.png" width="280" />
-
-</p>
-
-
-
 </div>
+
+![Girl coding on MacBook](https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Person%20Technologist/Default/3D/person_technologist_3d_default.png)
+
+---
+
+<div align="center">
+
+## 🌐 Socials
 
 ---
 
@@ -97,6 +99,7 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
