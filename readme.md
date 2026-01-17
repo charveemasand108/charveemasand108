@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=4F7BFF&center=true&vCenter=true&width=800&height=120&lines=Charvee+Masand"
-    alt="Charvee Masand Pixel Animation"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=4F7BFF&center=true&vCenter=true&width=800&height=120&lines=Charvee+Masand"
+  alt="Charvee Masand Pixel Animation"
+/>
 
 </div>
 
@@ -12,10 +12,6 @@
 <div align="center">
 
 ## 💫 About Me
-
-</div>
-
-<div align="center">
 
 🔭 I’m currently working on **frontend projects, API-based apps, and small AI/ML experiments**  
 🤝 I’m looking to collaborate on **open-source projects and beginner-friendly full-stack ideas**  
@@ -26,21 +22,13 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<p align="center">
-
-</div>
-
-https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Woman%20Technologist/Default/3D/woman_technologist_3d_default.png
-
 ---
 
 <div align="center">
 
-## 🌐 Socials
+![Girl coding on MacBook](https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Woman%20Technologist/Default/3D/woman_technologist_3d_default.png)
+
+</div>
 
 ---
 
@@ -79,28 +67,15 @@ https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Woman%20T
 
 ## 📊 Extended GitHub Analytics
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=tokyonight"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=tokyonight" />
 
 <br/><br/>
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=tokyonight"
-  width="48%"
-/>
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charveemasand108&theme=tokyonight"
-  width="48%"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charveemasand108&theme=tokyonight" width="48%" />
 
 </div>
 
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
