@@ -26,7 +26,12 @@
 
 <div align="center">
 
-![Girl coding on MacBook](https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Woman%20Technologist/Default/3D/woman_technologist_3d_default.png)
+<!-- GitHub-official emoji image: WILL NEVER BREAK -->
+<img
+  src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png"
+  width="140"
+  alt="Woman coding on MacBook"
+/>
 
 </div>
 
@@ -47,7 +52,8 @@
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,react,html,tailwind,js,ts,nodejs,nextjs,docker,mongodb,firebase,git,github,aws,gcp,linux,arduino,raspberrypi,vscode,postman&perline=10" />
+<!-- Skillicons is stable; if you ever want zero risk, replace with plain text -->
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,react,html,css,tailwind,js,ts,nodejs,nextjs,mongodb,firebase,git,github,linux,vscode&perline=8" />
 
 </div>
 
@@ -57,7 +63,9 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true"
+/>
 
 </div>
 
@@ -65,17 +73,27 @@
 
 <div align="center">
 
-## 📊 Extended GitHub Analytics
+## 📊 GitHub Analytics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=tokyonight" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=tokyonight"
+/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charveemasand108&theme=tokyonight" width="48%" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=tokyonight"
+  width="48%"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charveemasand108&theme=tokyonight"
+  width="48%"
+/>
 
 </div>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+✨ <i>Code. Learn. Build. Repeat.</i> ✨
+</p>
