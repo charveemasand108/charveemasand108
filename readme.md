@@ -30,7 +30,12 @@
 
 <div align="center">
 
-<img>![Girl coding on MacBook](https://user-images.githubusercontent.com/74038190/212750260-6b7b4b4a-5b68-4c4b-9a3b-9b5c5e9b9a1f.png)</img>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Person%20Technologist/Default/3D/person_technologist_3d_default.png" width="280" />
+
+</p>
+
 
 
 </div>
@@ -92,5 +97,6 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
