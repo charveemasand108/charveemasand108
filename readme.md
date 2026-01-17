@@ -1,86 +1,99 @@
 <div align="center">
 
-<!-- HERO IMAGE -->
 <img
-  src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSExMWFRUVFxcYFxgVGBgZGBcYFRcXFxUWFRgYHSggGBolHRcVITEhJSkrLi4vFx8zODMsNygtLisBCgoKDg0OGxAQGi0lICUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMIBAwMBEQACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgEAB//EAEYQAAIBAgMEBwUEBwYFBQAAAAECEQADBBIhBTFBUQYTImFxgZEyQqGxwSNSctEUM2KCsuHwFSRTkqLCBxZD0vE0c4OT0//EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAEEBQb/xAA5EQACAQIEAggEBQQBBQAAAAAAAQIDEQQSITFBUQUTIjJhcYGRFKGx8CMzQsHRUmLh8SQVNENygv/aAAwDAQACEQMRAD8A..."
-  width="360"
-  alt="Girl coding on MacBook"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=4F7BFF&center=true&vCenter=true&width=800&height=120&lines=Charvee+Masand"
+  alt="Charvee Masand Pixel Animation"
 />
 
-<br/>
+</div>
 
-<!-- NAME -->
-<h1>👋 Hi, I'm Charvee</h1>
+---
 
-<p>
-  💻 Developer • 🎨 Design-driven • 🚀 Learning AI / ML & Web  
+<div align="center">
+
+## 💫 About Me
+
+🔭 I’m currently working on **frontend projects, API-based apps, and small AI/ML experiments**  
+🤝 I’m looking to collaborate on **open-source projects and beginner-friendly full-stack ideas**  
+🆘 I’m looking for help with **advanced system design, backend scalability, and ML pipelines**  
+🌱 I’m currently learning **AI & ML fundamentals, system internals, and modern web development**  
+💬 Ask me about **JavaScript, APIs, React basics, Linux setups (Arch/FreeBSD), or CS fundamentals**  
+⚡ Fun fact: **Programming is 40% coding, 60% debugging — and 100% problem solving**
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- GitHub-official emoji image: WILL NEVER BREAK -->
+<img
+  src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png"
+  width="140"
+  alt="Woman coding on MacBook"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charvee108/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charvee.masand@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Tech Stack
+
+<!-- Skillicons is stable; if you ever want zero risk, replace with plain text -->
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,react,html,css,tailwind,js,ts,nodejs,nextjs,mongodb,firebase,git,github,linux,vscode&perline=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=tokyonight"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=tokyonight"
+  width="48%"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charveemasand108&theme=tokyonight"
+  width="48%"
+/>
+
+</div>
+
+---
+
+<p align="center">
+✨ <i>Code. Learn. Build. Repeat.</i> ✨
 </p>
-
-</div>
-
----
-
-## 🧠 About Me
-
-- 🔭 Working on **frontend projects, APIs, and AI/ML experiments**
-- 🌱 Learning **React, TypeScript, Node.js, AI fundamentals**
-- 🤝 Open to **open-source collaboration**
-- 🐧 Linux (Arch) enthusiast
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,node,express,python,java,git,github,linux,vscode,figma&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=charveemasand108&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=charveemasand108&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=tokyo-night&hide_border=true"
-/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/charveemasand108">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-  ✨ Thanks for visiting my profile ✨
-</div>
