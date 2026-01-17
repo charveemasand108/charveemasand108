@@ -1,91 +1,75 @@
-<div align="center">
+<!-- =========================
+        HERO SECTION
+========================= -->
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=4F7BFF&center=true&vCenter=true&width=800&height=120&lines=Charvee+Masand"
-    alt="Charvee Masand Pixel Animation"
-  />
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-</div>
+### Hi, I'm **Charvee Masand** 👋  
 
----
+I'm an enthusiastic **Techie** and a **Developer**  
+who loves to contribute to the  
+**Open Source Community** 💙  
 
-<div align="center">
+<br/>
 
-## 💫 About Me
+🌱 Currently learning **AI / ML fundamentals & modern web development**  
+🔭 Working on **frontend projects, APIs, and small AI/ML experiments**  
+🤝 Open to **open-source collaborations & internships**  
+⚡ Passionate about **clean UI, fast shipping, and good engineering**
 
-</div>
+<br/>
 
-<div align="center">
+### 🧩 My Skills
 
-🔭 I’m currently working on **frontend projects, API-based apps, and small AI/ML experiments**  
-🤝 I’m looking to collaborate on **open-source projects and beginner-friendly full-stack ideas**  
-🆘 I’m looking for help with **advanced system design, backend scalability, and ML pipelines**  
-🌱 I’m currently learning **AI & ML fundamentals, system internals, and modern web development**  
-💬 Ask me about **JavaScript, APIs, React basics, Linux setups (Arch/FreeBSD), or CS fundamentals**  
-⚡ Fun fact: **Programming is 40% coding, 60% debugging — and 100% problem solving**
+**Languages:** JavaScript, TypeScript, Python, Java  
+**Frontend:** React, Next.js, TailwindCSS  
+**Backend:** Node.js, Express  
+**Databases:** PostgreSQL, MySQL, Firebase  
+**Tools:** Git, GitHub, Linux, Figma
 
-</div>
+</td>
+<td width="45%" align="center">
 
----
+<img src="./assets/girl-macbook.png" width="340" alt="Girl coding on MacBook"/>
 
-<div align="center">
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charvee108/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charvee.masand@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,react,html,tailwind,js,ts,nodejs,nextjs,docker,mongodb,firebase,git,github,aws,gcp,linux,arduino,raspberrypi,vscode,postman&perline=10" />
-
-</div>
-
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-## 📊 Extended GitHub Analytics
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=tokyonight"
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=tokyonight"
-  width="48%"
-/>
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charveemasand108&theme=tokyonight"
-  width="48%"
-/>
-
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=charveemasand108&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charveemasand108&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=ffffff" />
+</p>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=charveemasand108&hide_border=true&background=00000000&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=ffffff" />
+</p>
 
+---
 
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:charveemasand@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
-
-
-
+<p align="center">
+✨ *“Code. Learn. Build. Repeat.”* ✨
+</p>
