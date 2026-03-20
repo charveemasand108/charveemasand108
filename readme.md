@@ -58,7 +58,7 @@
 <div align="left">
   
 ```js
-const Aryan = {
+const Charvee= {
   name: 'Charvee Masand',
   current: 'Exploring GenAI & MERN stack',
   interest: ['Deep Learning', 'Cloud-Native Systems', 'Full Stack Dev', 'AI/ML'],
