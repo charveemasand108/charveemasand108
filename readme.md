@@ -41,13 +41,15 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,react,html,css,tailwind,js,ts,nodejs,nextjs,mongodb,firebase,git,github,linux,vscode,swift" />
 </p>
 ----
+
 ## 🎓 Certifications
 - Programming Fundamentals in Swift — Meta  
 - UI/UX Design — IBM  
 - Version Control — Meta  
-- Mobile App Development — IBM  
+- Mobile App Development — IBM
+  
 ----
-## 📊 GitHub Analytics
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charveemasand108&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="180"/>
