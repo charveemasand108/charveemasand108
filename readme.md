@@ -1,6 +1,6 @@
 <!-- 🌊 Centered Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=300&section=header&text=Charvee%20Masand&fontSize=70&fontAlignY=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#99CCFF&height=300&section=header&text=Charvee%20Masand&fontSize=70&fontAlignY=45&animation=fadeIn" />
 </p>
 
 <!-- ✨ Roles -->
