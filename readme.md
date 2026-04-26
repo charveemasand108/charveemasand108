@@ -61,14 +61,28 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/output/github-contribution-grid-snake.svg" />
-</p>
+name: Snake Animation
 
----
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
 
-<!-- 🌊 Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=160&section=footer"/>
-</p>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: charveemasand108
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
