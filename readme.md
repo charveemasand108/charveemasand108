@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,react,html,css,tailwind,js,ts,nodejs,nextjs,mongodb,firebase,git,github,linux,vscode,swift" />
 </p>
----
+----
 ## 🎓 Certifications
 - Programming Fundamentals in Swift — Meta  
 - UI/UX Design — IBM  
