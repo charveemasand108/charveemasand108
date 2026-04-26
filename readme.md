@@ -62,13 +62,13 @@
 ---
 
 ## 🐍 Contribution Snake
+
+<!-- Real one (will work after setup) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/output/github-contribution-grid-snake.svg?v=1" />
 </p>
 
----
-
-<!-- 🌊 Light Pink Footer -->
+<!-- Fallback (shows until above works) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=160&section=footer"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
