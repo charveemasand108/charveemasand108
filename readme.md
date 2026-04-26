@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=42&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=850&lines=✨+iOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast" />
 </h1>
 
+<!-- 💻 Animated Girl Coding -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="280"/>
+</p>
+
 <!-- 🔗 Social Links -->
 <p align="center">
   <a href="https://github.com/charveemasand108">
@@ -59,6 +64,13 @@
 ## 🔥 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
