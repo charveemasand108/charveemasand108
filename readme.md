@@ -1,7 +1,7 @@
-<!-- 🌊 Wider Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=260&width=1200&section=header&text=Charvee%20Masand&fontSize=60&fontAlignY=40" />
+<!-- 🌊 Extra Wide Visual Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=300&section=header&text=Charvee%20Masand&fontSize=70&fontAlignY=45&animation=fadeIn" />
 
-<!-- 🌊 Flowing Name + Roles -->
+<!-- 🌊 Flowing Roles -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=42&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=850&lines=✨+iOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast" />
 </h1>
@@ -35,10 +35,10 @@
 ---
 
 ## 🌟 Projects
-- 📌 **LifeGrid** – Productivity & life management app (IOS APP)
-- 📌 **SmartSpend** – AI-powered expense tracker(IOS APP) 
-- 📌 **FocusFight** – Focus app (IOS APP)
-- 📌**3D-Project** - GSAP Project
+- 📌 **LifeGrid** – Productivity & life management app (iOS)  
+- 📌 **SmartSpend** – AI-powered expense tracker (iOS)  
+- 📌 **FocusFight** – Focus app (iOS)  
+- 📌 **3D Project** – GSAP-based interactive web project  
 
 ---
 
@@ -61,7 +61,5 @@
 
 ---
 
-
-
 <!-- 🌊 Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=160&section=footer"/>
