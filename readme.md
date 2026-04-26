@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=Charvee+Masand;✨+iOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast" />
 </h1>
 
+<!-- 🔗 Social Links (Clean & Clickable) -->
+<p align="center">
+  <a href="https://github.com/charveemasand108">
+    <img src="https://img.shields.io/badge/GitHub-Charvee%20Masand-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Charvee%20Masand-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
 ---
 
 ## 💫 About Me
@@ -51,7 +61,7 @@
   <a href="https://github.com/charveemasand108">
     <img src="https://img.shields.io/badge/GitHub-Charvee%20Masand-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Charvee%20Masand-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
