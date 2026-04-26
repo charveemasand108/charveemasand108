@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=42&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=850&lines=✨+iOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast" />
 </h1>
 
-<!-- 💻 Animated Girl Coding -->
+<!-- 💻 Pink Aesthetic Girl Coding -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </p>
 
 <!-- 🔗 Social Links -->
