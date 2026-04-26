@@ -33,6 +33,11 @@
 - 🚀 Building real-world impactful apps  
 
 ---
+## 🎓 Certifications
+- Programming Fundamentals in Swift — Meta  
+- UI/UX Design — IBM  
+- Version Control — Meta  
+- Mobile App Development — IBM  
 
 ## 🛠️ Skills & Technologies
 <p align="center">
