@@ -1,44 +1,22 @@
-## 💻 About Me (Code Style)
+<!-- 🌊 Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=Charvee%20Masand&fontSize=45&fontAlignY=35" />
 
-```javascript
-const Charvee = {
-  name: 'Charvee Masand',
-  current: 'Building iOS Apps & Exploring Full Stack + AI/ML',
-  
-  interests: [
-    'UI/UX Design',
-    'iOS Development',
-    'Full Stack Development',
-    'AI/ML'
-  ],
+<!-- 🌊 Flowing Name + Roles -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=Charvee+Masand;✨+iOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast" />
+</h1>
 
-  tech: {
-    languages: ['C', 'C++', 'Java', 'Python', 'JavaScript', 'TypeScript'],
-    frontend: ['React', 'Next.js', 'HTML', 'CSS', 'Tailwind CSS'],
-    backend: ['Node.js', 'Express.js'],
-    mobile: ['Swift', 'SwiftUI'],
-    database: ['MongoDB', 'Firebase', 'SQL'],
-    tools: ['GitHub', 'Figma', 'VS Code', 'Xcode'],
-    platforms: ['Linux']
-  },
+---
 
-  certifications: [
-    'Programming Fundamentals in Swift — Meta',
-    'Designing User Interfaces and Experiences (UI/UX) — IBM',
-    'Version Control — Meta',
-    'Introduction to Mobile App Development — IBM'
-  ],
+## 💫 About Me
+- 🎨 Passionate about **UI/UX Design**  
+- 📱 iOS App Developer (Swift / SwiftUI)  
+- 💻 Full Stack Developer  
+- 🤖 Exploring AI/ML  
+- 🚀 Building real-world impactful apps  
 
-  currentlyWorkingOn: [
-    'LifeGrid (Productivity App)',
-    'SmartSpend (AI Expense Tracker)',
-    'SkillForge (Skill Growth App)'
-  ],
+---
 
-  learning: ['Advanced SwiftUI', 'System Design', 'AI Integrations'],
-
-  funFact: "I design first, then build it better 🚀"
-};
 ## 🛠️ Skills & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,react,html,css,tailwind,js,ts,nodejs,nextjs,mongodb,firebase,git,github,linux,vscode,swift" />
@@ -47,9 +25,9 @@ const Charvee = {
 ---
 
 ## 🌟 Projects
-- 📌 LifeGrid – Productivity & life management app  
-- 📌 SmartSpend – AI-powered expense tracker  
-- 📌 SkillForge – Skill growth tracker  
+- 📌 **LifeGrid** – Productivity & life management app  
+- 📌 **SmartSpend** – AI-powered expense tracker  
+- 📌 **SkillForge** – Skill growth tracker  
 
 ---
 
@@ -57,10 +35,6 @@ const Charvee = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charveemasand108&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charveemasand108&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charveemasand108&layout=compact&theme=radical" />
 </p>
 
 ---
