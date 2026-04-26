@@ -38,14 +38,18 @@
 - UI/UX Design — IBM  
 - Version Control — Meta  
 - Mobile App Development — IBM  
-
+----
 ## 🛠️ Skills & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,react,html,css,tailwind,js,ts,nodejs,nextjs,mongodb,firebase,git,github,linux,vscode,swift" />
 </p>
 
 ---
-
+## 📚 Currently Learning
+- Advanced SwiftUI Animations  
+- System Design Basics  
+- AI Integration in Apps  
+----
 ## 🌟 Projects
 - 📌 **LifeGrid** – Productivity & life management app (iOS)  
 - 📌 **SmartSpend** – AI-powered expense tracker (iOS)  
