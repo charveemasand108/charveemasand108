@@ -61,17 +61,7 @@
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/charveemasand108">
-    <img src="https://img.shields.io/badge/GitHub-Charvee%20Masand-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Charvee%20Masand-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
 
----
 
 <!-- 🌊 Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=footer"/>
