@@ -3,7 +3,7 @@
 
 <!-- 🌊 Flowing Name + Roles -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=Charvee+Masand;✨+iOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=IOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast" />
 </h1>
 
 <!-- 🔗 Social Links (Clean & Clickable) -->
