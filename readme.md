@@ -39,6 +39,41 @@
 - Version Control — Meta  
 - Mobile App Development — IBM  
 ----
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charveemasand108&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charveemasand108&theme=radical&hide_border=true&border_radius=15" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charveemasand108&layout=compact&theme=radical&hide_border=true&border_radius=15" height="180"/>
+</p>
+
+---
+
+## 🧠 Developer Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charveemasand108&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charveemasand108&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=radical" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true" />
+</p>
 ## 🛠️ Skills & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,react,html,css,tailwind,js,ts,nodejs,nextjs,mongodb,firebase,git,github,linux,vscode,swift" />
