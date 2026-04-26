@@ -49,6 +49,14 @@
 - Mobile App Development — IBM
   
 ----
+## 🌟 Projects
+- 📌 **LifeGrid** – Productivity & life management app (iOS)  
+- 📌 **SmartSpend** – AI-powered expense tracker (iOS)  
+- 📌 **FocusFight** – Focus app (iOS)  
+- 📌 **3D Project** – GSAP-based interactive web project  
+
+---
+
 
 
 <p align="center">
@@ -86,13 +94,6 @@
 - System Design Basics  
 - AI Integration in Apps  
 ----
-## 🌟 Projects
-- 📌 **LifeGrid** – Productivity & life management app (iOS)  
-- 📌 **SmartSpend** – AI-powered expense tracker (iOS)  
-- 📌 **FocusFight** – Focus app (iOS)  
-- 📌 **3D Project** – GSAP-based interactive web project  
-
----
 
 
 
