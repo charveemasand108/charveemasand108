@@ -1,6 +1,6 @@
-<!-- 🌊 Centered Header -->
+<!-- 🌊 Centered Light Pink Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=300&section=header&text=Charvee%20Masand&fontSize=70&fontAlignY=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=300&section=header&text=Charvee%20Masand&fontSize=70&fontColor=8B4F6C&fontAlignY=45&animation=fadeIn" />
 </p>
 
 <!-- ✨ Roles -->
@@ -68,7 +68,7 @@
 
 ---
 
-<!-- 🌊 Footer -->
+<!-- 🌊 Light Pink Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=160&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=160&section=footer"/>
 </p>
