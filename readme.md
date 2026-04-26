@@ -1,5 +1,7 @@
-<!-- 🌊 Extra Wide Visual Header -->
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=300&section=header&text=Charvee%20Masand&fontSize=70&fontAlignY=45&animation=fadeIn" />
+<!-- 🌊 Centered Wider Header Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=300&section=header&text=Charvee%20Masand&fontSize=70&fontAlignY=45&animation=fadeIn" />
+</p>
 
 <!-- 🌊 Flowing Roles -->
 <h1 align="center">
@@ -62,4 +64,6 @@
 ---
 
 <!-- 🌊 Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=160&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=160&section=footer"/>
+</p>
