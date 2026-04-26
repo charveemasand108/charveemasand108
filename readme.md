@@ -1,4 +1,4 @@
-<!-- 🌊 Centered Premium Header -->
+<!-- 🌊 Centered Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=300&section=header&text=Charvee%20Masand&fontSize=70&fontAlignY=45&animation=fadeIn" />
 </p>
@@ -8,12 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=42&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=850&lines=✨+iOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast" />
 </h1>
 
-<!-- 💻 Cute Aesthetic Dev Girl -->
+<!-- 💻 Cute Aesthetic Girl -->
 <p align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="320"/>
 </p>
 
-<!-- 🔗 Social -->
+<!-- 🔗 Social Links -->
 <p align="center">
   <a href="https://github.com/charveemasand108">
     <img src="https://img.shields.io/badge/GitHub-Charvee%20Masand-black?style=for-the-badge&logo=github" />
