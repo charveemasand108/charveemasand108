@@ -56,6 +56,11 @@
 - 📌 **3D Project** – GSAP-based interactive web project  
 
 ---
+## 📚 Currently Learning
+- Advanced SwiftUI Animations  
+- System Design Basics  
+- AI Integration in Apps  
+----
 
 
 
@@ -89,11 +94,7 @@
 
 
 ---
-## 📚 Currently Learning
-- Advanced SwiftUI Animations  
-- System Design Basics  
-- AI Integration in Apps  
-----
+
 
 
 
