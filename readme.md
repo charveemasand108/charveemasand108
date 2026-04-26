@@ -8,55 +8,41 @@
 
 ---
 
-## 💫 About Me
-- 🎨 Passionate about **UI/UX Design**  
-- 📱 iOS App Developer (Swift / SwiftUI)  
-- 💻 Full Stack Developer  
-- 🤖 Exploring AI/ML  
-- 🚀 Building real-world impactful apps  
+## 💻 About Me (Code Style)
+```javascript
+const Charvee = {
+  name: 'Charvee Masand',
+  current: 'Building iOS Apps & Exploring Full Stack + AI/ML',
+  
+  interests: [
+    'UI/UX Design',
+    'iOS Development',
+    'Full Stack Development',
+    'AI/ML'
+  ],
 
----
+  tech: {
+    frontend: ['React', 'Next.js', 'Tailwind CSS'],
+    backend: ['Node.js', 'Python'],
+    mobile: ['Swift', 'SwiftUI'],
+    database: ['MongoDB', 'Firebase'],
+    tools: ['GitHub', 'Figma', 'VS Code', 'Xcode']
+  },
 
-## 🛠️ Skills & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,react,html,css,tailwind,js,ts,nodejs,nextjs,mongodb,firebase,git,github,linux,vscode,swift" />
-</p>
+  certifications: [
+    'Programming Fundamentals in Swift — Meta',
+    'Designing User Interfaces and Experiences (UI/UX) — IBM',
+    'Version Control — Meta',
+    'Introduction to Mobile App Development — IBM'
+  ],
 
----
+  currentlyWorkingOn: [
+    'LifeGrid (Productivity App)',
+    'SmartSpend (AI Expense Tracker)',
+    'SkillForge (Skill Growth App)'
+  ],
 
-## 🌟 Projects
-- 📌 **LifeGrid** – Productivity & life management app  
-- 📌 **SmartSpend** – AI-powered expense tracker  
-- 📌 **SkillForge** – Skill growth tracker  
+  learning: ['Advanced SwiftUI', 'System Design', 'AI Integrations'],
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charveemasand108&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charveemasand108&theme=radical" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/charveemasand108">
-    <img src="https://img.shields.io/badge/GitHub-Charvee%20Masand-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Charvee%20Masand-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-<!-- 🌊 Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+  funFact: "I design first, then build it better 🚀"
+};
