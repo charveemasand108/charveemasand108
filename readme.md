@@ -38,6 +38,7 @@
 - 📌 **LifeGrid** – Productivity & life management app(IOS APP) 
 - 📌 **SmartSpend** – AI-powered expense tracker(IOS APP)
 - 📌 **FocusFight** - Focus App(IOS APP)
+- 📌 **3D-Project** - GSAP Project
 
 ---
 
