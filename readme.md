@@ -1,19 +1,19 @@
-<!-- 🌊 Centered Wider Header Wave -->
+<!-- 🌊 Centered Premium Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=300&section=header&text=Charvee%20Masand&fontSize=70&fontAlignY=45&animation=fadeIn" />
 </p>
 
-<!-- 🌊 Flowing Roles -->
+<!-- ✨ Roles -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=42&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=850&lines=✨+iOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast" />
 </h1>
 
-<!-- 💻 Pink Aesthetic Girl Coding -->
+<!-- 💻 Cute Aesthetic Dev Girl -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="320"/>
 </p>
 
-<!-- 🔗 Social Links -->
+<!-- 🔗 Social -->
 <p align="center">
   <a href="https://github.com/charveemasand108">
     <img src="https://img.shields.io/badge/GitHub-Charvee%20Masand-black?style=for-the-badge&logo=github" />
@@ -61,13 +61,6 @@
 
 ---
 
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/output/github-contribution-grid-snake.svg" />
@@ -75,7 +68,7 @@
 
 ---
 
-<!-- 🌊 Footer Wave -->
+<!-- 🌊 Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=160&section=footer"/>
 </p>
