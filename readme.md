@@ -26,8 +26,8 @@
 ---
 
 ## 💫 About Me
-- 🎨 Passionate about **UI/UX Design**  
 - 📱 iOS App Developer (Swift / SwiftUI)  
+- 🎨 Passionate about **UI/UX Design**  
 - 💻 Full Stack Developer  
 - 🤖 Exploring AI/ML  
 - 🚀 Building real-world impactful apps
