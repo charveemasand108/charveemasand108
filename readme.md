@@ -100,10 +100,6 @@
 
 ## 🐍 Contribution Snake
 
-<!-- Real one (will work after setup) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/output/github-contribution-grid-snake.svg?v=1" />
-</p>
 
 <!-- Fallback (shows until above works) -->
 <p align="center">
