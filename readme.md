@@ -121,6 +121,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true&area=true" />
+</p>
+
 ---
 
 # 🐍 Contribution Snake
