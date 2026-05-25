@@ -10,7 +10,7 @@
 
 <!-- 💻 Cute Coding Girl GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M4MzRjOTZjNDA0ZmE2YTY0NjI3MjM3OGM4YmQ2N2FhM2NjNzA2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="340"/>
 </p>
 <!-- 🌐 Socials -->
 <p align="center">
