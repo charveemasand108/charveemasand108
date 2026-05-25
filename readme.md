@@ -9,7 +9,10 @@
 </h1>
 
 <!-- 💻 Cute Coding Girl GIF -->
-<p align="center"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="320"/> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
+</p>
+
 <!-- 🌐 Socials -->
 <p align="center">
   <a href="https://github.com/charveemasand108">
@@ -29,7 +32,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ### 🌸 Hey there! I'm Charvee  
 
@@ -89,70 +92,3 @@
 - System Design Basics
 - Clean Architecture
 - Backend Scalability
-```
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charveemasand108&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charveemasand108&theme=radical&hide_border=true&border_radius=15" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charveemasand108&layout=compact&theme=radical&hide_border=true&border_radius=15" height="180"/>
-</p>
-
----
-
-# 🧠 Developer Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charveemasand108&theme=radical" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charveemasand108&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=radical" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# ✨ Quote I Live By
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-# 🌸 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charveemasand108&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  
-### 💖 Thanks for visiting my profile 💖
-
-✨ *Building beautiful digital experiences one app at a time* ✨
-
-</p>
