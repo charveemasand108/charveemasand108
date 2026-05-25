@@ -48,7 +48,7 @@
 # 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,swift,react,nextjs,nodejs,js,ts,html,css,tailwind,mongodb,firebase,git,github,linux,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,c,cpp,java,python,react,nextjs,nodejs,express,js,ts,html,css,tailwind,bootstrap,mongodb,mysql,firebase,supabase,redux,git,github,linux,vscode,figma,docker,postman,vercel,netlify&perline=10" />
 </p>
 
 ---
