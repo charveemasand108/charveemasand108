@@ -10,9 +10,8 @@
 
 <!-- 💻 Cute Coding Girl GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
 </p>
-
 <!-- 🌐 Socials -->
 <p align="center">
   <a href="https://github.com/charveemasand108">
