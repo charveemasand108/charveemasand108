@@ -5,7 +5,7 @@
 
 <!-- ✨ Animated Roles -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=900&lines=✨+iOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast;🎨+UI%2FUX+Lover;🚀+Building+Impactful+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=900&lines=✨+iOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast;🎨+UI%2FUX+Enthusiast;🚀+Building+Impactful+Apps" />
 </h1>
 
 <!-- 💻 Cute Coding Girl GIF -->
