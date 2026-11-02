@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1022"/><stop offset=".55" stop-color="#2f1536"/><stop offset="1" stop-color="#4a1d45"/></linearGradient>
+<radialGradient id="bPink"><stop offset="0" stop-color="#F75C7E" stop-opacity=".55"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+<radialGradient id="bLilac"><stop offset="0" stop-color="#8E6BFF" stop-opacity=".45"/><stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="bPeach"><stop offset="0" stop-color="#FFB199" stop-opacity=".32"/><stop offset="1" stop-color="#FFB199" stop-opacity="0"/></radialGradient>
+<linearGradient id="pinkGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="330" rx="36"/></clipPath><linearGradient id="f0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5EC8FF"/><stop offset="1" stop-color="#3B82F6"/></linearGradient><linearGradient id="f1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B79CED"/><stop offset="1" stop-color="#6C4DFF"/></linearGradient><linearGradient id="f2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF9A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient><linearGradient id="f3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7EE7A8"/><stop offset="1" stop-color="#12A594"/></linearGradient></defs>
+
+<g clip-path="url(#clip)">
+<rect width="900" height="330" fill="url(#bg)"/>
+
+<circle cx="140" cy="92" r="280" fill="url(#bPink)"><animate attributeName="cx" values="140;260;140" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="92;165;92" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="115" r="260" fill="url(#bLilac)"><animate attributeName="cx" values="760;640;760" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="340" r="300" fill="url(#bPeach)"><animate attributeName="cy" values="340;290;340" dur="8s" repeatCount="indefinite"/></circle>
+
+<text x="40" y="66" font-size="38" font-weight="700" fill="#fff">Focus</text>
+<text x="860" y="64" text-anchor="end" font-size="16" font-weight="600" fill="#F75C7E">How I work</text>
+
+<rect x="30" y="98" width="197" height="196" rx="28" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<rect x="30" y="98" width="197" height="196" rx="28" fill="none" stroke="#F75C7E" stroke-width="3" opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0.0000;0.0150;0.2350;0.2500;1.0000" values="0;1;1;0;0"/></rect>
+<circle cx="80" cy="154" r="30" fill="url(#f0)"/>
+<g transform="translate(80 154)"><text x="0" y="7" text-anchor="middle" font-size="18" font-weight="800" fill="#fff">&lt;/&gt;</text></g>
+<rect x="157" y="138" width="46" height="26" rx="13" fill="#F75C7E" fill-opacity=".9"/>
+<circle cx="190" cy="151" r="10" fill="#fff"><animate attributeName="cx" values="190;188;190" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="54" y="224" font-size="23" font-weight="700" fill="#fff">Coding</text>
+<text x="54" y="251" font-size="14.5" fill="#fff" fill-opacity=".68">Swift, SwiftUI &amp;</text>
+<text x="54" y="271" font-size="14.5" fill="#fff" fill-opacity=".68">clean architecture</text>
+<rect x="241" y="98" width="197" height="196" rx="28" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<rect x="241" y="98" width="197" height="196" rx="28" fill="none" stroke="#F75C7E" stroke-width="3" opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0.0000;0.2500;0.2650;0.4850;0.5000;1.0000" values="0;0;1;1;0;0"/></rect>
+<circle cx="291" cy="154" r="30" fill="url(#f1)"/>
+<g transform="translate(291 154)"><path d="M-13 -9 Q-6 -12 0 -6 Q6 -12 13 -9 V9 Q6 5 0 11 Q-6 5 -13 9 Z M0 -6 V11" fill="none" stroke="#fff" stroke-width="2.6" stroke-linejoin="round"/></g>
+<rect x="368" y="138" width="46" height="26" rx="13" fill="#F75C7E" fill-opacity=".9"/>
+<circle cx="401" cy="151" r="10" fill="#fff"><animate attributeName="cx" values="401;399;401" dur="3s" begin="0.5s" repeatCount="indefinite"/></circle>
+<text x="265" y="224" font-size="23" font-weight="700" fill="#fff">Learning</text>
+<text x="265" y="251" font-size="14.5" fill="#fff" fill-opacity=".68">New tech, one</text>
+<text x="265" y="271" font-size="14.5" fill="#fff" fill-opacity=".68">experiment at a time</text>
+<rect x="452" y="98" width="197" height="196" rx="28" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<rect x="452" y="98" width="197" height="196" rx="28" fill="none" stroke="#F75C7E" stroke-width="3" opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0.0000;0.5000;0.5150;0.7350;0.7500;1.0000" values="0;0;1;1;0;0"/></rect>
+<circle cx="502" cy="154" r="30" fill="url(#f2)"/>
+<g transform="translate(502 154)"><path d="M-11 9 C-11 -11 11 11 11 -9" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round"/><circle cx="-11" cy="9" r="3.5" fill="#fff"/><circle cx="11" cy="-9" r="3.5" fill="#fff"/></g>
+<rect x="579" y="138" width="46" height="26" rx="13" fill="#F75C7E" fill-opacity=".9"/>
+<circle cx="612" cy="151" r="10" fill="#fff"><animate attributeName="cx" values="612;610;612" dur="3s" begin="1.0s" repeatCount="indefinite"/></circle>
+<text x="476" y="224" font-size="23" font-weight="700" fill="#fff">Designing</text>
+<text x="476" y="251" font-size="14.5" fill="#fff" fill-opacity=".68">Interfaces that</text>
+<text x="476" y="271" font-size="14.5" fill="#fff" fill-opacity=".68">feel effortless</text>
+<rect x="663" y="98" width="197" height="196" rx="28" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<rect x="663" y="98" width="197" height="196" rx="28" fill="none" stroke="#F75C7E" stroke-width="3" opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0.0000;0.7500;0.7650;0.9850;1.0000" values="0;0;1;1;0"/></rect>
+<circle cx="713" cy="154" r="30" fill="url(#f3)"/>
+<g transform="translate(713 154)"><path d="M-13 3 L13 -11 L5 12 L1 4 Z" fill="none" stroke="#fff" stroke-width="2.6" stroke-linejoin="round"/></g>
+<rect x="790" y="138" width="46" height="26" rx="13" fill="#F75C7E" fill-opacity=".9"/>
+<circle cx="823" cy="151" r="10" fill="#fff"><animate attributeName="cx" values="823;821;823" dur="3s" begin="1.5s" repeatCount="indefinite"/></circle>
+<text x="687" y="224" font-size="23" font-weight="700" fill="#fff">Shipping</text>
+<text x="687" y="251" font-size="14.5" fill="#fff" fill-opacity=".68">From idea to</text>
+<text x="687" y="271" font-size="14.5" fill="#fff" fill-opacity=".68">real-world apps</text>
+</g>
+<rect x=".5" y=".5" width="899" height="329" rx="36" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

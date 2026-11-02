@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="545" viewBox="0 0 900 545" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1022"/><stop offset=".55" stop-color="#2f1536"/><stop offset="1" stop-color="#4a1d45"/></linearGradient>
+<radialGradient id="bPink"><stop offset="0" stop-color="#F75C7E" stop-opacity=".55"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+<radialGradient id="bLilac"><stop offset="0" stop-color="#8E6BFF" stop-opacity=".45"/><stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="bPeach"><stop offset="0" stop-color="#FFB199" stop-opacity=".32"/><stop offset="1" stop-color="#FFB199" stop-opacity="0"/></radialGradient>
+<linearGradient id="pinkGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="545" rx="36"/></clipPath><linearGradient id="av" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF9A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient><linearGradient id="c0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2A8FE8"/><stop offset="1" stop-color="#084A8F"/></linearGradient><linearGradient id="c1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient><linearGradient id="c2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34344a"/><stop offset="1" stop-color="#0d0d14"/></linearGradient></defs>
+
+<g clip-path="url(#clip)">
+<rect width="900" height="545" fill="url(#bg)"/>
+
+<circle cx="140" cy="153" r="280" fill="url(#bPink)"><animate attributeName="cx" values="140;260;140" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="153;272;153" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="191" r="260" fill="url(#bLilac)"><animate attributeName="cx" values="760;640;760" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="555" r="300" fill="url(#bPeach)"><animate attributeName="cy" values="555;505;555" dur="8s" repeatCount="indefinite"/></circle>
+
+<rect x="390" y="18" width="120" height="6" rx="3" fill="#fff" fill-opacity=".4"/>
+<text x="450" y="92" text-anchor="middle" font-size="42" font-weight="700" fill="#fff">Let's work together</text>
+<text x="450" y="126" text-anchor="middle" font-size="18" fill="#fff" fill-opacity=".7">Open to collaborations &amp; exciting product ideas in iOS, web and AI</text>
+<g transform="translate(450 212)">
+  <circle r="46" fill="none" stroke="#F75C7E" stroke-width="2"><animate attributeName="r" values="46;92" dur="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle r="46" fill="none" stroke="#F75C7E" stroke-width="2"><animate attributeName="r" values="46;92" dur="2.8s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.8s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <circle r="46" fill="url(#av)"/>
+  <text y="16" text-anchor="middle" font-size="46" font-weight="700" fill="#fff">C</text>
+</g>
+<text x="450" y="290" text-anchor="middle" font-size="14" font-weight="600" letter-spacing="2" fill="#F75C7E">SHARE VIA</text>
+<rect x="120" y="304" width="660" height="212" rx="28" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+
+<g transform="translate(146 331)"><rect width="36" height="36" rx="9" fill="url(#c0)"/><text x="18" y="27" text-anchor="middle" font-size="19" font-weight="800" fill="#fff">in</text></g>
+<text x="204" y="355" font-size="20" font-weight="500" fill="#fff">Connect on LinkedIn</text>
+<path d="M742 342 L752 352 L742 362" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="204" y1="380" x2="756" y2="380" stroke="#fff" stroke-opacity=".12"/>
+<g transform="translate(146 393)"><rect width="36" height="36" rx="9" fill="url(#c1)"/><g fill="none" stroke="#fff" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"><rect x="7" y="10" width="22" height="16" rx="4"/><path d="M8 13 L18 20 L28 13"/></g></g>
+<text x="204" y="417" font-size="20" font-weight="500" fill="#fff">Send an email</text>
+<path d="M742 404 L752 414 L742 424" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="204" y1="442" x2="756" y2="442" stroke="#fff" stroke-opacity=".12"/>
+<g transform="translate(146 455)"><rect width="36" height="36" rx="9" fill="url(#c2)"/><g fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round"><circle cx="13" cy="10" r="3"/><circle cx="13" cy="26" r="3"/><circle cx="24" cy="15" r="3"/><line x1="13" y1="13" x2="13" y2="23"/><path d="M24 18 C24 23 13 20 13 23"/></g></g>
+<text x="204" y="479" font-size="20" font-weight="500" fill="#fff">Follow on GitHub</text>
+<path d="M742 466 L752 476 L742 486" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<rect x=".5" y=".5" width="899" height="544" rx="36" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

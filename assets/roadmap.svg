@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1022"/><stop offset=".55" stop-color="#2f1536"/><stop offset="1" stop-color="#4a1d45"/></linearGradient>
+<radialGradient id="bPink"><stop offset="0" stop-color="#F75C7E" stop-opacity=".55"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+<radialGradient id="bLilac"><stop offset="0" stop-color="#8E6BFF" stop-opacity=".45"/><stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="bPeach"><stop offset="0" stop-color="#FFB199" stop-opacity=".32"/><stop offset="1" stop-color="#FFB199" stop-opacity="0"/></radialGradient>
+<linearGradient id="pinkGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="380" rx="36"/></clipPath></defs>
+
+<g clip-path="url(#clip)">
+<rect width="900" height="380" fill="url(#bg)"/>
+
+<circle cx="140" cy="106" r="280" fill="url(#bPink)"><animate attributeName="cx" values="140;260;140" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="106;190;106" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="133" r="260" fill="url(#bLilac)"><animate attributeName="cx" values="760;640;760" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="390" r="300" fill="url(#bPeach)"><animate attributeName="cy" values="390;340;390" dur="8s" repeatCount="indefinite"/></circle>
+
+<text x="40" y="66" font-size="38" font-weight="700" fill="#fff">Roadmap</text>
+<text x="860" y="64" text-anchor="end" font-size="16" font-weight="600" fill="#F75C7E">Reminders</text>
+
+<rect x="30" y="100" width="266" height="250" rx="28" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<circle cx="64" cy="142" r="9" fill="#F75C7E"/>
+<text x="84" y="150" font-size="24" font-weight="700" fill="#F75C7E">Now</text>
+<text x="272" y="150" text-anchor="end" font-size="22" font-weight="700" fill="#fff" fill-opacity=".5">3</text>
+<line x1="54" y1="168" x2="272" y2="168" stroke="#fff" stroke-opacity=".12"/><circle cx="66" cy="202" r="11" fill="none" stroke="#F75C7E" stroke-width="2.4"/><circle cx="66" cy="202" r="11" fill="#F75C7E" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.15;.25;.9;1" dur="8s" begin="0.0s" repeatCount="indefinite"/></circle><path d="M60 202 L64.5 206.5 L72 197.5" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.15;.25;.9;1" dur="8s" begin="0.0s" repeatCount="indefinite"/></path><text x="90" y="208" font-size="16" fill="#fff">SwiftUI animations</text><circle cx="66" cy="258" r="11" fill="none" stroke="#F75C7E" stroke-width="2.4"/><circle cx="66" cy="258" r="11" fill="#F75C7E" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.15;.25;.9;1" dur="8s" begin="1.6s" repeatCount="indefinite"/></circle><path d="M60 258 L64.5 262.5 L72 253.5" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.15;.25;.9;1" dur="8s" begin="1.6s" repeatCount="indefinite"/></path><text x="90" y="255" font-size="16" fill="#fff">AI integration in</text><text x="90" y="275" font-size="16" fill="#fff">mobile apps</text><circle cx="66" cy="314" r="11" fill="none" stroke="#F75C7E" stroke-width="2.4"/><circle cx="66" cy="314" r="11" fill="#F75C7E" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.15;.25;.9;1" dur="8s" begin="3.2s" repeatCount="indefinite"/></circle><path d="M60 314 L64.5 318.5 L72 309.5" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.15;.25;.9;1" dur="8s" begin="3.2s" repeatCount="indefinite"/></path><text x="90" y="311" font-size="16" fill="#fff">Building &amp; shipping</text><text x="90" y="331" font-size="16" fill="#fff">real apps</text>
+<rect x="317" y="100" width="266" height="250" rx="28" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<circle cx="351" cy="142" r="9" fill="#FF9F43"/>
+<text x="371" y="150" font-size="24" font-weight="700" fill="#FF9F43">Next</text>
+<text x="559" y="150" text-anchor="end" font-size="22" font-weight="700" fill="#fff" fill-opacity=".5">3</text>
+<line x1="341" y1="168" x2="559" y2="168" stroke="#fff" stroke-opacity=".12"/><circle cx="353" cy="202" r="11" fill="none" stroke="#FF9F43" stroke-width="2.4"/><text x="377" y="208" font-size="16" fill="#fff">System design basics</text><circle cx="353" cy="258" r="11" fill="none" stroke="#FF9F43" stroke-width="2.4"/><text x="377" y="264" font-size="16" fill="#fff">Clean architecture</text><circle cx="353" cy="314" r="11" fill="none" stroke="#FF9F43" stroke-width="2.4"/><text x="377" y="320" font-size="16" fill="#fff">Backend scalability</text>
+<rect x="604" y="100" width="266" height="250" rx="28" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<circle cx="638" cy="142" r="9" fill="#B79CED"/>
+<text x="658" y="150" font-size="24" font-weight="700" fill="#B79CED">Later</text>
+<text x="846" y="150" text-anchor="end" font-size="22" font-weight="700" fill="#fff" fill-opacity=".5">3</text>
+<line x1="628" y1="168" x2="846" y2="168" stroke="#fff" stroke-opacity=".12"/><circle cx="640" cy="202" r="11" fill="none" stroke="#B79CED" stroke-width="2.4"/><text x="664" y="208" font-size="16" fill="#fff">New technologies</text><circle cx="640" cy="258" r="11" fill="none" stroke="#B79CED" stroke-width="2.4"/><text x="664" y="255" font-size="16" fill="#fff">Bigger real-world</text><text x="664" y="275" font-size="16" fill="#fff">products</text><circle cx="640" cy="314" r="11" fill="none" stroke="#B79CED" stroke-width="2.4"/><text x="664" y="320" font-size="16" fill="#fff">Always experimenting</text>
+</g>
+<rect x=".5" y=".5" width="899" height="379" rx="36" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

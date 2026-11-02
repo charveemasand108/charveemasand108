@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1022"/><stop offset=".55" stop-color="#2f1536"/><stop offset="1" stop-color="#4a1d45"/></linearGradient>
+<radialGradient id="bPink"><stop offset="0" stop-color="#F75C7E" stop-opacity=".55"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+<radialGradient id="bLilac"><stop offset="0" stop-color="#8E6BFF" stop-opacity=".45"/><stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="bPeach"><stop offset="0" stop-color="#FFB199" stop-opacity=".32"/><stop offset="1" stop-color="#FFB199" stop-opacity="0"/></radialGradient>
+<linearGradient id="pinkGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="430" rx="36"/></clipPath></defs>
+
+<g clip-path="url(#clip)">
+<rect width="900" height="430" fill="url(#bg)"/>
+
+<circle cx="140" cy="120" r="280" fill="url(#bPink)"><animate attributeName="cx" values="140;260;140" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="120;215;120" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="150" r="260" fill="url(#bLilac)"><animate attributeName="cx" values="760;640;760" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="440" r="300" fill="url(#bPeach)"><animate attributeName="cy" values="440;390;440" dur="8s" repeatCount="indefinite"/></circle>
+
+<text x="40" y="66" font-size="36" font-weight="700" fill="#fff">Learning Rings</text>
+<text x="860" y="64" text-anchor="end" font-size="16" font-weight="600" fill="#F75C7E">Always closing them</text>
+<g transform="translate(250 252) rotate(-90)">
+<circle r="118" fill="none" stroke="#FF4D6D" stroke-opacity=".16" stroke-width="16"/>
+<circle r="118" fill="none" stroke="#FF4D6D" stroke-width="16" stroke-linecap="round" stroke-dasharray="741.4" stroke-dashoffset="111.2">
+  <animate attributeName="stroke-dashoffset" values="741.4;111.2;111.2" keyTimes="0;.4;1" dur="6s" begin="0.0s" repeatCount="indefinite"/>
+</circle>
+<circle r="98" fill="none" stroke="#FF9F43" stroke-opacity=".16" stroke-width="16"/>
+<circle r="98" fill="none" stroke="#FF9F43" stroke-width="16" stroke-linecap="round" stroke-dasharray="615.8" stroke-dashoffset="184.7">
+  <animate attributeName="stroke-dashoffset" values="615.8;184.7;184.7" keyTimes="0;.4;1" dur="6s" begin="0.2s" repeatCount="indefinite"/>
+</circle>
+<circle r="78" fill="none" stroke="#B6F36B" stroke-opacity=".16" stroke-width="16"/>
+<circle r="78" fill="none" stroke="#B6F36B" stroke-width="16" stroke-linecap="round" stroke-dasharray="490.1" stroke-dashoffset="196.0">
+  <animate attributeName="stroke-dashoffset" values="490.1;196.0;196.0" keyTimes="0;.4;1" dur="6s" begin="0.4s" repeatCount="indefinite"/>
+</circle>
+<circle r="58" fill="none" stroke="#4DD8E8" stroke-opacity=".16" stroke-width="16"/>
+<circle r="58" fill="none" stroke="#4DD8E8" stroke-width="16" stroke-linecap="round" stroke-dasharray="364.4" stroke-dashoffset="182.2">
+  <animate attributeName="stroke-dashoffset" values="364.4;182.2;182.2" keyTimes="0;.4;1" dur="6s" begin="0.6000000000000001s" repeatCount="indefinite"/>
+</circle>
+<circle r="38" fill="none" stroke="#9B7BFF" stroke-opacity=".16" stroke-width="16"/>
+<circle r="38" fill="none" stroke="#9B7BFF" stroke-width="16" stroke-linecap="round" stroke-dasharray="238.8" stroke-dashoffset="143.3">
+  <animate attributeName="stroke-dashoffset" values="238.8;143.3;143.3" keyTimes="0;.4;1" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+</circle></g>
+<path d="M250 238 Q250 252 264 252 Q250 252 250 266 Q250 252 236 252 Q250 252 250 238 Z" fill="#fff"><animate attributeName="opacity" values=".4;1;.4" dur="2.4s" repeatCount="indefinite"/></path>
+
+<circle cx="470" cy="140" r="13" fill="none" stroke="#FF4D6D" stroke-opacity=".25" stroke-width="5"/>
+<circle cx="470" cy="140" r="13" fill="none" stroke="#FF4D6D" stroke-width="5" stroke-linecap="round" stroke-dasharray="52 82" transform="rotate(-90 470 140)"><animateTransform attributeName="transform" type="rotate" values="-90 470 140;270 470 140" dur="6s" repeatCount="indefinite"/></circle>
+<text x="502" y="138" font-size="21" font-weight="600" fill="#fff">SwiftUI animations</text>
+<text x="502" y="159" font-size="13" fill="#FF4D6D" font-weight="600" letter-spacing="1">IN PROGRESS</text>
+<circle cx="470" cy="198" r="13" fill="none" stroke="#FF9F43" stroke-opacity=".25" stroke-width="5"/>
+<circle cx="470" cy="198" r="13" fill="none" stroke="#FF9F43" stroke-width="5" stroke-linecap="round" stroke-dasharray="52 82" transform="rotate(-90 470 198)"><animateTransform attributeName="transform" type="rotate" values="-90 470 198;270 470 198" dur="7s" repeatCount="indefinite"/></circle>
+<text x="502" y="196" font-size="21" font-weight="600" fill="#fff">AI integration in mobile apps</text>
+<text x="502" y="217" font-size="13" fill="#FF9F43" font-weight="600" letter-spacing="1">IN PROGRESS</text>
+<circle cx="470" cy="256" r="13" fill="none" stroke="#B6F36B" stroke-opacity=".25" stroke-width="5"/>
+<circle cx="470" cy="256" r="13" fill="none" stroke="#B6F36B" stroke-width="5" stroke-linecap="round" stroke-dasharray="52 82" transform="rotate(-90 470 256)"><animateTransform attributeName="transform" type="rotate" values="-90 470 256;270 470 256" dur="8s" repeatCount="indefinite"/></circle>
+<text x="502" y="254" font-size="21" font-weight="600" fill="#fff">System design basics</text>
+<text x="502" y="275" font-size="13" fill="#B6F36B" font-weight="600" letter-spacing="1">IN PROGRESS</text>
+<circle cx="470" cy="314" r="13" fill="none" stroke="#4DD8E8" stroke-opacity=".25" stroke-width="5"/>
+<circle cx="470" cy="314" r="13" fill="none" stroke="#4DD8E8" stroke-width="5" stroke-linecap="round" stroke-dasharray="52 82" transform="rotate(-90 470 314)"><animateTransform attributeName="transform" type="rotate" values="-90 470 314;270 470 314" dur="9s" repeatCount="indefinite"/></circle>
+<text x="502" y="312" font-size="21" font-weight="600" fill="#fff">Clean architecture</text>
+<text x="502" y="333" font-size="13" fill="#4DD8E8" font-weight="600" letter-spacing="1">IN PROGRESS</text>
+<circle cx="470" cy="372" r="13" fill="none" stroke="#9B7BFF" stroke-opacity=".25" stroke-width="5"/>
+<circle cx="470" cy="372" r="13" fill="none" stroke="#9B7BFF" stroke-width="5" stroke-linecap="round" stroke-dasharray="52 82" transform="rotate(-90 470 372)"><animateTransform attributeName="transform" type="rotate" values="-90 470 372;270 470 372" dur="10s" repeatCount="indefinite"/></circle>
+<text x="502" y="370" font-size="21" font-weight="600" fill="#fff">Backend scalability</text>
+<text x="502" y="391" font-size="13" fill="#9B7BFF" font-weight="600" letter-spacing="1">IN PROGRESS</text>
+</g>
+<rect x=".5" y=".5" width="899" height="429" rx="36" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

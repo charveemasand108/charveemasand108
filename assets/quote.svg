@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1022"/><stop offset=".55" stop-color="#2f1536"/><stop offset="1" stop-color="#4a1d45"/></linearGradient>
+<radialGradient id="bPink"><stop offset="0" stop-color="#F75C7E" stop-opacity=".55"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+<radialGradient id="bLilac"><stop offset="0" stop-color="#8E6BFF" stop-opacity=".45"/><stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="bPeach"><stop offset="0" stop-color="#FFB199" stop-opacity=".32"/><stop offset="1" stop-color="#FFB199" stop-opacity="0"/></radialGradient>
+<linearGradient id="pinkGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="350" rx="36"/></clipPath></defs>
+
+<g clip-path="url(#clip)">
+<rect width="900" height="350" fill="url(#bg)"/>
+
+<circle cx="140" cy="98" r="280" fill="url(#bPink)"><animate attributeName="cx" values="140;260;140" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="98;175;98" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="122" r="260" fill="url(#bLilac)"><animate attributeName="cx" values="760;640;760" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="360" r="300" fill="url(#bPeach)"><animate attributeName="cy" values="360;310;360" dur="8s" repeatCount="indefinite"/></circle>
+
+<g fill="none" stroke="#FFD60A" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M56 42 L44 54 L56 66"/></g>
+<text x="70" y="62" font-size="21" fill="#FFD60A">Notes</text>
+<g fill="none" stroke="#FFD60A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" transform="translate(790 40)"><path d="M0 8 V20 H20 V8 M10 -2 V13 M5 3 L10 -2 L15 3"/></g>
+<g fill="#FFD60A"><circle cx="836" cy="52" r="3"/><circle cx="846" cy="52" r="3"/><circle cx="856" cy="52" r="3"/></g>
+<text x="50" y="128" font-size="34" font-weight="700" fill="#fff">Quote I live by</text>
+<line x1="50" y1="212" x2="850" y2="212" stroke="#fff" stroke-opacity=".1"/><line x1="50" y1="258" x2="850" y2="258" stroke="#fff" stroke-opacity=".1"/><line x1="50" y1="304" x2="850" y2="304" stroke="#fff" stroke-opacity=".1"/>
+<text x="50" y="200" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="37" fill="#fff">Building beautiful digital experiences,</text><text x="50" y="246" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="37" fill="#fff">one app at a time.</text>
+<text x="50" y="296" font-size="19" fill="#FFD60A" font-weight="600">— Charvee</text>
+<path d="M820 166 Q820 180 834 180 Q820 180 820 194 Q820 180 806 180 Q820 180 820 166 Z" fill="#FFD60A"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></path>
+<path d="M850 206 Q850 214 858 214 Q850 214 850 222 Q850 214 842 214 Q850 214 850 206 Z" fill="#F75C7E"><animate attributeName="opacity" values=".2;1;.2" dur="3s" begin="1s" repeatCount="indefinite"/></path>
+</g>
+<rect x=".5" y=".5" width="899" height="349" rx="36" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

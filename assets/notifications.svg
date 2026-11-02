@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="530" viewBox="0 0 900 530" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1022"/><stop offset=".55" stop-color="#2f1536"/><stop offset="1" stop-color="#4a1d45"/></linearGradient>
+<radialGradient id="bPink"><stop offset="0" stop-color="#F75C7E" stop-opacity=".55"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+<radialGradient id="bLilac"><stop offset="0" stop-color="#8E6BFF" stop-opacity=".45"/><stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="bPeach"><stop offset="0" stop-color="#FFB199" stop-opacity=".32"/><stop offset="1" stop-color="#FFB199" stop-opacity="0"/></radialGradient>
+<linearGradient id="pinkGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="530" rx="36"/></clipPath><linearGradient id="n0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF9A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient><linearGradient id="n1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B79CED"/><stop offset="1" stop-color="#6C4DFF"/></linearGradient><linearGradient id="n2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7EE7A8"/><stop offset="1" stop-color="#12A594"/></linearGradient><linearGradient id="n3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5EC8FF"/><stop offset="1" stop-color="#3B82F6"/></linearGradient></defs>
+
+<g clip-path="url(#clip)">
+<rect width="900" height="530" fill="url(#bg)"/>
+
+<circle cx="140" cy="148" r="280" fill="url(#bPink)"><animate attributeName="cx" values="140;260;140" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="148;265;148" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="186" r="260" fill="url(#bLilac)"><animate attributeName="cx" values="760;640;760" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="540" r="300" fill="url(#bPeach)"><animate attributeName="cy" values="540;490;540" dur="8s" repeatCount="indefinite"/></circle>
+
+<text x="50" y="64" font-size="36" font-weight="700" fill="#fff">Notifications</text>
+<rect x="690" y="38" width="160" height="36" rx="18" fill="#fff" fill-opacity=".14"/>
+<text x="770" y="62" text-anchor="middle" font-size="15" font-weight="600" fill="#fff">What I'm about</text>
+
+<g>
+  <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.05;0.10;.9;.97;1" values="0;0;1;1;0;0"/>
+  <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" keyTimes="0;0.05;0.10;1" values="0 22;0 22;0 0;0 0"/>
+  <rect x="50" y="104" width="800" height="86" rx="26" fill="#fff" fill-opacity=".11" stroke="#fff" stroke-opacity=".16"/>
+  <g transform="translate(76 123)"><rect width="48" height="48" rx="12" fill="url(#n0)"/><text x="24" y="31" text-anchor="middle" font-size="19" font-weight="800" fill="#fff">Sw</text></g>
+  <text x="144" y="132" font-size="12" font-weight="700" letter-spacing="1.3" fill="#fff" fill-opacity=".6">SWIFTUI</text>
+  <text x="824" y="132" text-anchor="end" font-size="13" fill="#fff" fill-opacity=".5">now</text>
+  <text x="144" y="157" font-size="19" font-weight="700" fill="#fff">New animation unlocked</text>
+  <text x="144" y="179" font-size="14.5" fill="#fff" fill-opacity=".72">Smooth springs and silky transitions, coming to an app near you.</text>
+</g>
+<g>
+  <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.12;0.17;.9;.97;1" values="0;0;1;1;0;0"/>
+  <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" keyTimes="0;0.12;0.17;1" values="0 22;0 22;0 0;0 0"/>
+  <rect x="50" y="204" width="800" height="86" rx="26" fill="#fff" fill-opacity=".11" stroke="#fff" stroke-opacity=".16"/>
+  <g transform="translate(76 223)"><rect width="48" height="48" rx="12" fill="url(#n1)"/><path d="M24 9 Q24 24 39 24 Q24 24 24 39 Q24 24 9 24 Q24 24 24 9 Z" fill="#fff" transform="translate(0 0)"/><path d="M36 6 Q36 12 42 12 Q36 12 36 18 Q36 12 30 12 Q36 12 36 6 Z" fill="#fff"/></g>
+  <text x="144" y="232" font-size="12" font-weight="700" letter-spacing="1.3" fill="#fff" fill-opacity=".6">AI / ML</text>
+  <text x="824" y="232" text-anchor="end" font-size="13" fill="#fff" fill-opacity=".5">2m ago</text>
+  <text x="144" y="257" font-size="19" font-weight="700" fill="#fff">Smarter apps incoming</text>
+  <text x="144" y="279" font-size="14.5" fill="#fff" fill-opacity=".72">Exploring AI integrations that make mobile apps genuinely useful.</text>
+</g>
+<g>
+  <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.19;0.24;.9;.97;1" values="0;0;1;1;0;0"/>
+  <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" keyTimes="0;0.19;0.24;1" values="0 22;0 22;0 0;0 0"/>
+  <rect x="50" y="304" width="800" height="86" rx="26" fill="#fff" fill-opacity=".11" stroke="#fff" stroke-opacity=".16"/>
+  <g transform="translate(76 323)"><rect width="48" height="48" rx="12" fill="url(#n2)"/><g stroke="#fff" stroke-width="5" stroke-linecap="round"><line x1="24" y1="12" x2="24" y2="36"/><line x1="12" y1="24" x2="36" y2="24"/></g></g>
+  <text x="144" y="332" font-size="12" font-weight="700" letter-spacing="1.3" fill="#fff" fill-opacity=".6">OPEN TO COLLABORATE</text>
+  <text x="824" y="332" text-anchor="end" font-size="13" fill="#fff" fill-opacity=".5">5m ago</text>
+  <text x="144" y="357" font-size="19" font-weight="700" fill="#fff">Let's build something</text>
+  <text x="144" y="379" font-size="14.5" fill="#fff" fill-opacity=".72">Open to ideas, teams and projects across iOS, web and AI.</text>
+</g>
+<g>
+  <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.26;0.31;.9;.97;1" values="0;0;1;1;0;0"/>
+  <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" keyTimes="0;0.26;0.31;1" values="0 22;0 22;0 0;0 0"/>
+  <rect x="50" y="404" width="800" height="86" rx="26" fill="#fff" fill-opacity=".11" stroke="#fff" stroke-opacity=".16"/>
+  <g transform="translate(76 423)"><rect width="48" height="48" rx="12" fill="url(#n3)"/><g fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round"><path d="M12 36 C12 12 36 36 36 12"/></g><circle cx="12" cy="36" r="4.5" fill="#fff"/><circle cx="36" cy="12" r="4.5" fill="#fff"/></g>
+  <text x="144" y="432" font-size="12" font-weight="700" letter-spacing="1.3" fill="#fff" fill-opacity=".6">UI / UX</text>
+  <text x="824" y="432" text-anchor="end" font-size="13" fill="#fff" fill-opacity=".5">1h ago</text>
+  <text x="144" y="457" font-size="19" font-weight="700" fill="#fff">Design check passed</text>
+  <text x="144" y="479" font-size="14.5" fill="#fff" fill-opacity=".72">Clean layouts, clear hierarchy and zero clutter.</text>
+</g>
+</g>
+<rect x=".5" y=".5" width="899" height="529" rx="36" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>
