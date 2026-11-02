@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1022"/><stop offset=".55" stop-color="#2f1536"/><stop offset="1" stop-color="#4a1d45"/></linearGradient>
+<radialGradient id="bPink"><stop offset="0" stop-color="#F75C7E" stop-opacity=".55"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+<radialGradient id="bLilac"><stop offset="0" stop-color="#8E6BFF" stop-opacity=".45"/><stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="bPeach"><stop offset="0" stop-color="#FFB199" stop-opacity=".32"/><stop offset="1" stop-color="#FFB199" stop-opacity="0"/></radialGradient>
+<linearGradient id="pinkGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="600" rx="36"/></clipPath>
+<clipPath id="ic"><rect width="110" height="110" rx="26"/></clipPath>
+<linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".32"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="gLife" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF9A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<linearGradient id="gSpend" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7EE787"/><stop offset="1" stop-color="#14998F"/></linearGradient>
+<linearGradient id="gFocus" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFC371"/><stop offset="1" stop-color="#FF4E6B"/></linearGradient>
+<linearGradient id="g3d" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9B7BFF"/><stop offset="1" stop-color="#3F6BFF"/></linearGradient></defs>
+
+<g clip-path="url(#clip)">
+<rect width="900" height="600" fill="url(#bg)"/>
+
+<circle cx="140" cy="168" r="280" fill="url(#bPink)"><animate attributeName="cx" values="140;260;140" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="168;300;168" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="210" r="260" fill="url(#bLilac)"><animate attributeName="cx" values="760;640;760" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="610" r="300" fill="url(#bPeach)"><animate attributeName="cy" values="610;560;610" dur="8s" repeatCount="indefinite"/></circle>
+
+<text x="48" y="48" font-size="18" font-weight="600" fill="#fff">9:41</text>
+<g fill="#fff">
+  <rect x="744" y="42" width="5" height="6" rx="1.5"/><rect x="752" y="39" width="5" height="9" rx="1.5"/>
+  <rect x="760" y="36" width="5" height="12" rx="1.5"/><rect x="768" y="33" width="5" height="15" rx="1.5"/>
+</g>
+<g transform="translate(800 48)" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round">
+  <path d="M-4 -3 Q0 -6 4 -3"/><path d="M-8 -7 Q0 -12 8 -7"/><path d="M-12 -11 Q0 -18 12 -11"/>
+</g>
+<circle cx="800" cy="48" r="2" fill="#fff"/>
+<rect x="824" y="34" width="34" height="15" rx="4.5" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="1.5"/>
+<rect x="827" y="37" width="28" height="9" rx="2.5" fill="#fff"/>
+<rect x="860" y="39" width="2.5" height="5" rx="1" fill="#fff" fill-opacity=".6"/>
+<rect x="40" y="86" width="400" height="180" rx="30" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<text x="68" y="122" font-size="13" font-weight="700" letter-spacing="2" fill="#F75C7E">NOW LEARNING</text>
+<text x="68" y="164" font-size="26" font-weight="700" fill="#fff">Advanced SwiftUI</text>
+<text x="68" y="196" font-size="26" font-weight="700" fill="#fff">Animations</text>
+<text x="68" y="238" font-size="14" fill="#fff" fill-opacity=".65">AI in mobile apps  ·  System design</text>
+<g transform="translate(396 172) rotate(-90)" fill="none" stroke-linecap="round">
+  <circle r="28" stroke="#fff" stroke-opacity=".12" stroke-width="8"/>
+  <circle r="28" stroke="#F75C7E" stroke-width="8" stroke-dasharray="175.9" stroke-dashoffset="175.9">
+    <animate attributeName="stroke-dashoffset" values="175.9;60;60" keyTimes="0;.5;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<path d="M396 162 Q396 172 406 172 Q396 172 396 182 Q396 172 386 172 Q396 172 396 162 Z" fill="#fff"><animate attributeName="opacity" values=".4;1;.4" dur="2.4s" repeatCount="indefinite"/></path>
+<rect x="460" y="86" width="400" height="180" rx="30" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<text x="488" y="122" font-size="13" font-weight="700" letter-spacing="2" fill="#F75C7E">CERTIFIED</text>
+<text x="488" y="164" font-size="28" font-weight="700" fill="#fff">4 certifications</text>
+<text x="488" y="198" font-size="20" fill="#FFD1DC">Meta  ·  IBM</text>
+<rect x="488" y="226" width="64" height="28" rx="14" fill="#fff" fill-opacity=".1"/><text x="520.0" y="245" text-anchor="middle" font-size="12.5" fill="#fff" fill-opacity=".85">Swift</text><rect x="560" y="226" width="116" height="28" rx="14" fill="#fff" fill-opacity=".1"/><text x="618.0" y="245" text-anchor="middle" font-size="12.5" fill="#fff" fill-opacity=".85">Version Control</text><rect x="684" y="226" width="64" height="28" rx="14" fill="#fff" fill-opacity=".1"/><text x="716.0" y="245" text-anchor="middle" font-size="12.5" fill="#fff" fill-opacity=".85">UI/UX</text><rect x="756" y="226" width="92" height="28" rx="14" fill="#fff" fill-opacity=".1"/><text x="802.0" y="245" text-anchor="middle" font-size="12.5" fill="#fff" fill-opacity=".85">Mobile Dev</text>
+
+<g transform="translate(75 306)">
+  <ellipse cx="55" cy="124" rx="42" ry="6" fill="#000" fill-opacity=".28"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.6s" begin="0.0s" repeatCount="indefinite"/>
+    <rect width="110" height="110" rx="26" fill="url(#gLife)"/><g clip-path="url(#ic)"><rect width="110" height="58" fill="url(#gloss)"/></g>
+    <rect x="20" y="20" width="21" height="21" rx="6" fill="#fff" fill-opacity="0.95"><animate attributeName="fill-opacity" values=".95;.4;.95" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect><rect x="47" y="20" width="21" height="21" rx="6" fill="#fff" fill-opacity="0.38"></rect><rect x="74" y="20" width="21" height="21" rx="6" fill="#fff" fill-opacity="0.95"><animate attributeName="fill-opacity" values=".95;.4;.95" dur="3s" begin="0.4s" repeatCount="indefinite"/></rect><rect x="20" y="47" width="21" height="21" rx="6" fill="#fff" fill-opacity="0.38"></rect><rect x="47" y="47" width="21" height="21" rx="6" fill="#fff" fill-opacity="0.95"><animate attributeName="fill-opacity" values=".95;.4;.95" dur="3s" begin="0.5s" repeatCount="indefinite"/></rect><rect x="74" y="47" width="21" height="21" rx="6" fill="#fff" fill-opacity="0.38"></rect><rect x="20" y="74" width="21" height="21" rx="6" fill="#fff" fill-opacity="0.95"><animate attributeName="fill-opacity" values=".95;.4;.95" dur="3s" begin="0.6s" repeatCount="indefinite"/></rect><rect x="47" y="74" width="21" height="21" rx="6" fill="#fff" fill-opacity="0.38"></rect><rect x="74" y="74" width="21" height="21" rx="6" fill="#fff" fill-opacity="0.95"><animate attributeName="fill-opacity" values=".95;.4;.95" dur="3s" begin="1.0s" repeatCount="indefinite"/></rect>
+    <text x="55" y="146" text-anchor="middle" font-size="19" font-weight="600" fill="#fff">LifeGrid</text>
+    <text x="55" y="168" text-anchor="middle" font-size="13" fill="#fff" fill-opacity=".55">Productivity</text>
+  </g>
+</g>
+
+<g transform="translate(235 306)">
+  <ellipse cx="55" cy="124" rx="42" ry="6" fill="#000" fill-opacity=".28"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.6s" begin="0.45s" repeatCount="indefinite"/>
+    <rect width="110" height="110" rx="26" fill="url(#gSpend)"/><g clip-path="url(#ic)"><rect width="110" height="58" fill="url(#gloss)"/></g>
+    <g fill="#fff"><rect x="24" y="58" width="16" height="30" rx="5" fill-opacity=".6"/><rect x="47" y="42" width="16" height="46" rx="5" fill-opacity=".8"/><rect x="70" y="26" width="16" height="62" rx="5"/></g><path d="M82 14 Q82 24 92 24 Q82 24 82 34 Q82 24 72 24 Q82 24 82 14 Z" fill="#fff"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/></path>
+    <text x="55" y="146" text-anchor="middle" font-size="19" font-weight="600" fill="#fff">SmartSpend</text>
+    <text x="55" y="168" text-anchor="middle" font-size="13" fill="#fff" fill-opacity=".55">AI Expenses</text>
+  </g>
+</g>
+
+<g transform="translate(395 306)">
+  <ellipse cx="55" cy="124" rx="42" ry="6" fill="#000" fill-opacity=".28"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.6s" begin="0.9s" repeatCount="indefinite"/>
+    <rect width="110" height="110" rx="26" fill="url(#gFocus)"/><g clip-path="url(#ic)"><rect width="110" height="58" fill="url(#gloss)"/></g>
+    <g fill="none" stroke="#fff"><circle cx="55" cy="55" r="36" stroke-width="6" stroke-opacity=".5"><animate attributeName="r" values="36;39;36" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="55" cy="55" r="21" stroke-width="6" stroke-opacity=".85"/></g><circle cx="55" cy="55" r="8" fill="#fff"/>
+    <text x="55" y="146" text-anchor="middle" font-size="19" font-weight="600" fill="#fff">FocusFight</text>
+    <text x="55" y="168" text-anchor="middle" font-size="13" fill="#fff" fill-opacity=".55">Focus &amp; Habits</text>
+  </g>
+</g>
+
+<g transform="translate(555 306)">
+  <ellipse cx="55" cy="124" rx="42" ry="6" fill="#000" fill-opacity=".28"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.6s" begin="1.35s" repeatCount="indefinite"/>
+    <rect width="110" height="110" rx="26" fill="url(#g3d)"/><g clip-path="url(#ic)"><rect width="110" height="58" fill="url(#gloss)"/></g>
+    <polygon points="55,20 88,38 55,56 22,38" fill="#fff" fill-opacity=".95"/><polygon points="22,38 55,56 55,92 22,74" fill="#fff" fill-opacity=".6"/><polygon points="88,38 55,56 55,92 88,74" fill="#fff" fill-opacity=".35"/>
+    <text x="55" y="146" text-anchor="middle" font-size="19" font-weight="600" fill="#fff">3D Experience</text>
+    <text x="55" y="168" text-anchor="middle" font-size="13" fill="#fff" fill-opacity=".55">React · GSAP</text>
+  </g>
+</g>
+
+<g transform="translate(715 306)">
+  <ellipse cx="55" cy="124" rx="42" ry="6" fill="#000" fill-opacity=".28"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.6s" begin="1.8s" repeatCount="indefinite"/>
+    <rect width="110" height="110" rx="26" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="2.5" stroke-dasharray="7 7"/><rect width="110" height="110" rx="26" fill="#fff" fill-opacity=".05"/>
+    <g stroke="#fff" stroke-opacity=".55" stroke-width="4" stroke-linecap="round"><line x1="55" y1="38" x2="55" y2="72"/><line x1="38" y1="55" x2="72" y2="55"/></g>
+    <text x="55" y="146" text-anchor="middle" font-size="19" font-weight="600" fill="#fff">Next idea</text>
+    <text x="55" y="168" text-anchor="middle" font-size="13" fill="#fff" fill-opacity=".55">Coming soon</text>
+  </g>
+</g>
+<g>
+  <circle cx="432" cy="552" r="4" fill="#fff"><animate attributeName="fill-opacity" values=".95;.35;.95" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="450" cy="552" r="4" fill="#fff" fill-opacity=".35"/><circle cx="468" cy="552" r="4" fill="#fff" fill-opacity=".35"/>
+</g>
+<rect x="380" y="580" width="140" height="5" rx="2.5" fill="#fff" fill-opacity=".75"/>
+</g>
+<rect x=".5" y=".5" width="899" height="599" rx="36" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

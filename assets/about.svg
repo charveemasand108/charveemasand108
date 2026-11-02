@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1022"/><stop offset=".55" stop-color="#2f1536"/><stop offset="1" stop-color="#4a1d45"/></linearGradient>
+<radialGradient id="bPink"><stop offset="0" stop-color="#F75C7E" stop-opacity=".55"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+<radialGradient id="bLilac"><stop offset="0" stop-color="#8E6BFF" stop-opacity=".45"/><stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="bPeach"><stop offset="0" stop-color="#FFB199" stop-opacity=".32"/><stop offset="1" stop-color="#FFB199" stop-opacity="0"/></radialGradient>
+<linearGradient id="pinkGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="430" rx="36"/></clipPath></defs>
+
+<g clip-path="url(#clip)">
+<rect width="900" height="430" fill="url(#bg)"/>
+
+<circle cx="140" cy="120" r="280" fill="url(#bPink)"><animate attributeName="cx" values="140;260;140" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="120;215;120" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="150" r="260" fill="url(#bLilac)"><animate attributeName="cx" values="760;640;760" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="440" r="300" fill="url(#bPeach)"><animate attributeName="cy" values="440;390;440" dur="8s" repeatCount="indefinite"/></circle>
+<rect x="30" y="30" width="440" height="368" rx="30" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<text x="68" y="88" font-size="34" font-weight="700" fill="#fff">Hey, I'm Charvee</text>
+<text x="68" y="116" font-size="16" fill="#F75C7E" font-weight="600" letter-spacing="2">DEVELOPER · DESIGNER AT HEART</text>
+<circle cx="68" cy="144" r="6" fill="#F75C7E"/><text x="90" y="150" font-size="19" fill="#fff" fill-opacity=".92">iOS apps with Swift &amp; SwiftUI</text>
+<circle cx="68" cy="175" r="6" fill="#FFB199"/><text x="90" y="181" font-size="19" fill="#fff" fill-opacity=".92">Crafting beautiful UI / UX</text>
+<circle cx="68" cy="206" r="6" fill="#B79CED"/><text x="90" y="212" font-size="19" fill="#fff" fill-opacity=".92">Modern full stack web apps</text>
+<circle cx="68" cy="237" r="6" fill="#7EE7C1"/><text x="90" y="243" font-size="19" fill="#fff" fill-opacity=".92">Exploring AI / ML integrations</text>
+<circle cx="68" cy="268" r="6" fill="#F75C7E"/><text x="90" y="274" font-size="19" fill="#fff" fill-opacity=".92">Real-world, impactful products</text>
+<circle cx="68" cy="299" r="6" fill="#FFB199"/><text x="90" y="305" font-size="19" fill="#fff" fill-opacity=".92">Always learning &amp; experimenting</text>
+<circle cx="68" cy="330" r="6" fill="#B79CED"/><text x="90" y="336" font-size="19" fill="#fff" fill-opacity=".92">Clean design + scalable architecture</text>
+
+
+<rect x="500" y="30" width="175" height="100" rx="26" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<circle cx="544" cy="80" r="26" fill="url(#pinkGrad)"><animate attributeName="r" values="26;28;26" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
+<g transform="translate(544 80)"><rect x="-8" y="-13" width="16" height="26" rx="4" fill="none" stroke="#fff" stroke-width="2.5"/><line x1="-3" y1="8" x2="3" y2="8" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/></g>
+<text x="580" y="76" font-size="16" font-weight="600" fill="#fff">iOS</text>
+<text x="580" y="98" font-size="14" fill="#F75C7E" font-weight="600">On</text>
+<rect x="695" y="30" width="175" height="100" rx="26" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<circle cx="739" cy="80" r="26" fill="url(#pinkGrad)"><animate attributeName="r" values="26;28;26" dur="3s" begin="0.5s" repeatCount="indefinite"/></circle>
+<g transform="translate(739 80)"><g fill="none" stroke="#fff" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"><path d="M0 -12 L13 -5 L0 2 L-13 -5 Z"/><path d="M-13 1 L0 8 L13 1"/><path d="M-13 7 L0 14 L13 7"/></g></g>
+<text x="775" y="76" font-size="16" font-weight="600" fill="#fff">Full Stack</text>
+<text x="775" y="98" font-size="14" fill="#F75C7E" font-weight="600">On</text>
+<rect x="500" y="150" width="175" height="100" rx="26" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<circle cx="544" cy="200" r="26" fill="url(#pinkGrad)"><animate attributeName="r" values="26;28;26" dur="3s" begin="1.0s" repeatCount="indefinite"/></circle>
+<g transform="translate(544 200)"><path d="M0 -14 Q0 0 14 0 Q0 0 0 14 Q0 0 -14 0 Q0 0 0 -14 Z" fill="#fff"/><path d="M11 -16 Q11 -11 16 -11 Q11 -11 11 -6 Q11 -11 6 -11 Q11 -11 11 -16 Z" fill="#fff"/></g>
+<text x="580" y="196" font-size="16" font-weight="600" fill="#fff">AI / ML</text>
+<text x="580" y="218" font-size="14" fill="#F75C7E" font-weight="600">On</text>
+<rect x="695" y="150" width="175" height="100" rx="26" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<circle cx="739" cy="200" r="26" fill="url(#pinkGrad)"><animate attributeName="r" values="26;28;26" dur="3s" begin="1.5s" repeatCount="indefinite"/></circle>
+<g transform="translate(739 200)"><path d="M-11 9 C-11 -11 11 11 11 -9" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/><circle cx="-11" cy="9" r="3.5" fill="#fff"/><circle cx="11" cy="-9" r="3.5" fill="#fff"/></g>
+<text x="775" y="196" font-size="16" font-weight="600" fill="#fff">UI / UX</text>
+<text x="775" y="218" font-size="14" fill="#F75C7E" font-weight="600">On</text>
+
+<rect x="500" y="270" width="370" height="58" rx="22" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<text x="524" y="294" font-size="14" fill="#fff" fill-opacity=".75" font-weight="600">Curiosity</text>
+<rect x="524" y="304" width="322" height="12" rx="6" fill="#fff" fill-opacity=".14"/>
+<rect x="524" y="304" width="322" height="12" rx="6" fill="url(#pinkGrad)">
+  <animate attributeName="width" values="40;322;322" keyTimes="0;.35;1" dur="5s" begin="0s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="500" y="340" width="370" height="58" rx="22" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+<text x="524" y="364" font-size="14" fill="#fff" fill-opacity=".75" font-weight="600">Creativity</text>
+<rect x="524" y="374" width="322" height="12" rx="6" fill="#fff" fill-opacity=".14"/>
+<rect x="524" y="374" width="322" height="12" rx="6" fill="url(#pinkGrad)">
+  <animate attributeName="width" values="40;322;322" keyTimes="0;.35;1" dur="5s" begin="0.6s" repeatCount="indefinite"/>
+</rect>
+</g>
+<rect x=".5" y=".5" width="899" height="429" rx="36" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

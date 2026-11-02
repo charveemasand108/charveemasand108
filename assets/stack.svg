@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1022"/><stop offset=".55" stop-color="#2f1536"/><stop offset="1" stop-color="#4a1d45"/></linearGradient>
+<radialGradient id="bPink"><stop offset="0" stop-color="#F75C7E" stop-opacity=".55"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+<radialGradient id="bLilac"><stop offset="0" stop-color="#8E6BFF" stop-opacity=".45"/><stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="bPeach"><stop offset="0" stop-color="#FFB199" stop-opacity=".32"/><stop offset="1" stop-color="#FFB199" stop-opacity="0"/></radialGradient>
+<linearGradient id="pinkGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="520" rx="36"/></clipPath><linearGradient id="ic0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient><linearGradient id="ic1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5EC8FF"/><stop offset="1" stop-color="#3B82F6"/></linearGradient><linearGradient id="ic2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7EE7A8"/><stop offset="1" stop-color="#12A594"/></linearGradient><linearGradient id="ic3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B79CED"/><stop offset="1" stop-color="#7C4DFF"/></linearGradient><linearGradient id="ic4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B8FA3"/><stop offset="1" stop-color="#3A3D52"/></linearGradient></defs>
+
+<g clip-path="url(#clip)">
+<rect width="900" height="520" fill="url(#bg)"/>
+
+<circle cx="140" cy="146" r="280" fill="url(#bPink)"><animate attributeName="cx" values="140;260;140" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="146;260;146" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="182" r="260" fill="url(#bLilac)"><animate attributeName="cx" values="760;640;760" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="530" r="300" fill="url(#bPeach)"><animate attributeName="cy" values="530;480;530" dur="8s" repeatCount="indefinite"/></circle>
+<text x="44" y="72" font-size="40" font-weight="700" fill="#fff">Tech Stack</text>
+<text x="856" y="70" text-anchor="end" font-size="16" fill="#F75C7E" font-weight="600">Settings</text>
+<rect x="30" y="94" width="840" height="400" rx="28" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/>
+
+<g>
+  <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.12;0.27" dur="1.6s" fill="freeze"/>
+  <rect x="52" y="122" width="46" height="46" rx="12" fill="url(#ic0)"/>
+  <text x="75" y="152" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">Sw</text>
+  <text x="120" y="140" font-size="21" font-weight="600" fill="#fff">Mobile</text>
+  <text x="120" y="164" font-size="15" fill="#fff" fill-opacity=".62">Swift  ·  SwiftUI  ·  Firebase</text>
+  <path d="M846 134 L856 145 L846 156" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g><line x1="120" y1="182" x2="866" y2="182" stroke="#fff" stroke-opacity=".1"/>
+<g>
+  <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.24;0.39" dur="1.6s" fill="freeze"/>
+  <rect x="52" y="198" width="46" height="46" rx="12" fill="url(#ic1)"/>
+  <text x="75" y="228" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">&lt;/&gt;</text>
+  <text x="120" y="216" font-size="21" font-weight="600" fill="#fff">Frontend</text>
+  <text x="120" y="240" font-size="15" fill="#fff" fill-opacity=".62">React  ·  Next.js  ·  TypeScript  ·  JavaScript  ·  Tailwind  ·  Bootstrap  ·  Redux  ·  HTML / CSS</text>
+  <path d="M846 210 L856 221 L846 232" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g><line x1="120" y1="258" x2="866" y2="258" stroke="#fff" stroke-opacity=".1"/>
+<g>
+  <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.36;0.51" dur="1.6s" fill="freeze"/>
+  <rect x="52" y="274" width="46" height="46" rx="12" fill="url(#ic2)"/>
+  <text x="75" y="304" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">API</text>
+  <text x="120" y="292" font-size="21" font-weight="600" fill="#fff">Backend &amp; Data</text>
+  <text x="120" y="316" font-size="15" fill="#fff" fill-opacity=".62">Node.js  ·  Express  ·  MongoDB  ·  MySQL  ·  Supabase  ·  Firebase</text>
+  <path d="M846 286 L856 297 L846 308" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g><line x1="120" y1="334" x2="866" y2="334" stroke="#fff" stroke-opacity=".1"/>
+<g>
+  <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.48;0.63" dur="1.6s" fill="freeze"/>
+  <rect x="52" y="350" width="46" height="46" rx="12" fill="url(#ic3)"/>
+  <text x="75" y="380" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">{ }</text>
+  <text x="120" y="368" font-size="21" font-weight="600" fill="#fff">Languages</text>
+  <text x="120" y="392" font-size="15" fill="#fff" fill-opacity=".62">Swift  ·  Python  ·  Java  ·  C  ·  C++  ·  JavaScript  ·  TypeScript</text>
+  <path d="M846 362 L856 373 L846 384" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g><line x1="120" y1="410" x2="866" y2="410" stroke="#fff" stroke-opacity=".1"/>
+<g>
+  <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.60;0.75" dur="1.6s" fill="freeze"/>
+  <rect x="52" y="426" width="46" height="46" rx="12" fill="url(#ic4)"/>
+  <text x="75" y="456" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">&gt;_</text>
+  <text x="120" y="444" font-size="21" font-weight="600" fill="#fff">Tools</text>
+  <text x="120" y="468" font-size="15" fill="#fff" fill-opacity=".62">Git  ·  GitHub  ·  Linux  ·  VS Code  ·  Figma  ·  Docker  ·  Postman  ·  Vercel  ·  Netlify</text>
+  <path d="M846 438 L856 449 L846 460" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<rect x=".5" y=".5" width="899" height="519" rx="36" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

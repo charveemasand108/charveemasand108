@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs><clipPath id="clip"><rect width="900" height="150" rx="0"/></clipPath></defs>
+
+<g clip-path="url(#clip)">
+<path d="M0 70 C150 20 300 120 450 70 S750 20 900 70 V150 H0 Z" fill="#F75C7E" fill-opacity=".35"><animate attributeName="d" values="M0 70 C150 20 300 120 450 70 S750 20 900 70 V150 H0 Z;M0 70 C150 120 300 20 450 70 S750 120 900 70 V150 H0 Z;M0 70 C150 20 300 120 450 70 S750 20 900 70 V150 H0 Z" dur="7s" repeatCount="indefinite"/></path>
+<path d="M0 90 C150 50 300 130 450 90 S750 50 900 90 V150 H0 Z" fill="#8E6BFF" fill-opacity=".35"><animate attributeName="d" values="M0 90 C150 50 300 130 450 90 S750 50 900 90 V150 H0 Z;M0 90 C150 130 300 50 450 90 S750 130 900 90 V150 H0 Z;M0 90 C150 50 300 130 450 90 S750 50 900 90 V150 H0 Z" dur="9s" repeatCount="indefinite"/></path>
+<rect y="104" width="900" height="46" fill="#1b1022"/>
+<text x="450" y="132" text-anchor="middle" font-size="16" fill="#FFD1DC" letter-spacing="1">Designed &amp; built by Charvee  ·  one app at a time</text>
+</g>
+</svg>

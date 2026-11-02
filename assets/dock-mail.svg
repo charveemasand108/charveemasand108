@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="152" viewBox="0 0 120 152" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient><linearGradient id="gl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".3"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="c"><rect x="12" y="8" width="96" height="96" rx="24"/></clipPath></defs>
+
+<ellipse cx="60" cy="118" rx="36" ry="5" fill="#000" fill-opacity=".25"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3s" repeatCount="indefinite"/>
+<rect x="12" y="8" width="96" height="96" rx="24" fill="url(#g)"/>
+<g clip-path="url(#c)"><rect x="12" y="8" width="96" height="48" fill="url(#gl)"/></g>
+<g fill="none" stroke="#fff" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"><rect x="32" y="40" width="56" height="40" rx="8"/><path d="M33 46 L60 66 L87 46"/></g>
+</g>
+<text x="60" y="142" text-anchor="middle" font-size="16" font-weight="600" fill="#F75C7E">Email</text>
+</svg>

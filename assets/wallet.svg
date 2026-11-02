@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1022"/><stop offset=".55" stop-color="#2f1536"/><stop offset="1" stop-color="#4a1d45"/></linearGradient>
+<radialGradient id="bPink"><stop offset="0" stop-color="#F75C7E" stop-opacity=".55"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+<radialGradient id="bLilac"><stop offset="0" stop-color="#8E6BFF" stop-opacity=".45"/><stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="bPeach"><stop offset="0" stop-color="#FFB199" stop-opacity=".32"/><stop offset="1" stop-color="#FFB199" stop-opacity="0"/></radialGradient>
+<linearGradient id="pinkGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="430" rx="36"/></clipPath><linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><linearGradient id="cd0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1877F2"/><stop offset="1" stop-color="#0A3A8F"/></linearGradient><clipPath id="cc0"><rect x="30" y="30" width="410" height="170" rx="24"/></clipPath><linearGradient id="cd1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6C5CE7"/><stop offset="1" stop-color="#2D2A8F"/></linearGradient><clipPath id="cc1"><rect x="460" y="30" width="410" height="170" rx="24"/></clipPath><linearGradient id="cd2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F62FE"/><stop offset="1" stop-color="#001D6C"/></linearGradient><clipPath id="cc2"><rect x="30" y="230" width="410" height="170" rx="24"/></clipPath><linearGradient id="cd3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3DDBD9"/><stop offset="1" stop-color="#0A6C74"/></linearGradient><clipPath id="cc3"><rect x="460" y="230" width="410" height="170" rx="24"/></clipPath></defs>
+
+<g clip-path="url(#clip)">
+<rect width="900" height="430" fill="url(#bg)"/>
+
+<circle cx="140" cy="120" r="280" fill="url(#bPink)"><animate attributeName="cx" values="140;260;140" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="120;215;120" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="150" r="260" fill="url(#bLilac)"><animate attributeName="cx" values="760;640;760" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="440" r="300" fill="url(#bPeach)"><animate attributeName="cy" values="440;390;440" dur="8s" repeatCount="indefinite"/></circle>
+
+<g>
+  <rect x="30" y="30" width="410" height="170" rx="24" fill="url(#cd0)"/>
+  <g clip-path="url(#cc0)">
+    <circle cx="390" cy="50" r="90" fill="#fff" fill-opacity=".08"/>
+    <circle cx="420" cy="180" r="70" fill="#fff" fill-opacity=".06"/>
+    <rect x="-90" y="10" width="90" height="220" fill="url(#shine)" transform="rotate(18 30 30)">
+      <animate attributeName="x" values="-110;490;490" keyTimes="0;.45;1" dur="5s" begin="0.0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="56" y="76" font-size="24" font-weight="800" letter-spacing="3" fill="#fff">META</text>
+  <rect x="322" y="56" width="92" height="26" rx="13" fill="#fff" fill-opacity=".2"/>
+  <text x="368" y="74" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="1.5" fill="#fff">CERTIFIED</text>
+  <rect x="56" y="100" width="42" height="32" rx="7" fill="#FFD66B" fill-opacity=".9"/>
+  <path d="M56 116 H98 M77 100 V132" stroke="#B8860B" stroke-opacity=".5" stroke-width="1.5"/>
+  <text x="56" y="172" font-size="17" font-weight="600" fill="#fff">Programming Fundamentals in Swift</text>
+</g>
+<g>
+  <rect x="460" y="30" width="410" height="170" rx="24" fill="url(#cd1)"/>
+  <g clip-path="url(#cc1)">
+    <circle cx="820" cy="50" r="90" fill="#fff" fill-opacity=".08"/>
+    <circle cx="850" cy="180" r="70" fill="#fff" fill-opacity=".06"/>
+    <rect x="340" y="10" width="90" height="220" fill="url(#shine)" transform="rotate(18 460 30)">
+      <animate attributeName="x" values="320;920;920" keyTimes="0;.45;1" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="486" y="76" font-size="24" font-weight="800" letter-spacing="3" fill="#fff">META</text>
+  <rect x="752" y="56" width="92" height="26" rx="13" fill="#fff" fill-opacity=".2"/>
+  <text x="798" y="74" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="1.5" fill="#fff">CERTIFIED</text>
+  <rect x="486" y="100" width="42" height="32" rx="7" fill="#FFD66B" fill-opacity=".9"/>
+  <path d="M486 116 H528 M507 100 V132" stroke="#B8860B" stroke-opacity=".5" stroke-width="1.5"/>
+  <text x="486" y="172" font-size="21" font-weight="600" fill="#fff">Version Control</text>
+</g>
+<g>
+  <rect x="30" y="230" width="410" height="170" rx="24" fill="url(#cd2)"/>
+  <g clip-path="url(#cc2)">
+    <circle cx="390" cy="250" r="90" fill="#fff" fill-opacity=".08"/>
+    <circle cx="420" cy="380" r="70" fill="#fff" fill-opacity=".06"/>
+    <rect x="-90" y="210" width="90" height="220" fill="url(#shine)" transform="rotate(18 30 230)">
+      <animate attributeName="x" values="-110;490;490" keyTimes="0;.45;1" dur="7s" begin="1.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="56" y="276" font-size="24" font-weight="800" letter-spacing="3" fill="#fff">IBM</text>
+  <rect x="322" y="256" width="92" height="26" rx="13" fill="#fff" fill-opacity=".2"/>
+  <text x="368" y="274" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="1.5" fill="#fff">CERTIFIED</text>
+  <rect x="56" y="300" width="42" height="32" rx="7" fill="#FFD66B" fill-opacity=".9"/>
+  <path d="M56 316 H98 M77 300 V332" stroke="#B8860B" stroke-opacity=".5" stroke-width="1.5"/>
+  <text x="56" y="372" font-size="21" font-weight="600" fill="#fff">UI/UX Design</text>
+</g>
+<g>
+  <rect x="460" y="230" width="410" height="170" rx="24" fill="url(#cd3)"/>
+  <g clip-path="url(#cc3)">
+    <circle cx="820" cy="250" r="90" fill="#fff" fill-opacity=".08"/>
+    <circle cx="850" cy="380" r="70" fill="#fff" fill-opacity=".06"/>
+    <rect x="340" y="210" width="90" height="220" fill="url(#shine)" transform="rotate(18 460 230)">
+      <animate attributeName="x" values="320;920;920" keyTimes="0;.45;1" dur="8s" begin="2.4000000000000004s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="486" y="276" font-size="24" font-weight="800" letter-spacing="3" fill="#fff">IBM</text>
+  <rect x="752" y="256" width="92" height="26" rx="13" fill="#fff" fill-opacity=".2"/>
+  <text x="798" y="274" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="1.5" fill="#fff">CERTIFIED</text>
+  <rect x="486" y="300" width="42" height="32" rx="7" fill="#FFD66B" fill-opacity=".9"/>
+  <path d="M486 316 H528 M507 300 V332" stroke="#B8860B" stroke-opacity=".5" stroke-width="1.5"/>
+  <text x="486" y="372" font-size="21" font-weight="600" fill="#fff">Mobile App Development</text>
+</g>
+</g>
+<rect x=".5" y=".5" width="899" height="429" rx="36" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

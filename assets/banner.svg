@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1022"/><stop offset=".55" stop-color="#2f1536"/><stop offset="1" stop-color="#4a1d45"/></linearGradient>
+<radialGradient id="bPink"><stop offset="0" stop-color="#F75C7E" stop-opacity=".55"/><stop offset="1" stop-color="#F75C7E" stop-opacity="0"/></radialGradient>
+<radialGradient id="bLilac"><stop offset="0" stop-color="#8E6BFF" stop-opacity=".45"/><stop offset="1" stop-color="#8E6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="bPeach"><stop offset="0" stop-color="#FFB199" stop-opacity=".32"/><stop offset="1" stop-color="#FFB199" stop-opacity="0"/></radialGradient>
+<linearGradient id="pinkGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A5C"/><stop offset="1" stop-color="#F75C7E"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="440" rx="36"/></clipPath></defs>
+
+<g clip-path="url(#clip)">
+<rect width="900" height="440" fill="url(#bg)"/>
+
+<circle cx="140" cy="123" r="280" fill="url(#bPink)"><animate attributeName="cx" values="140;260;140" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="123;220;123" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="154" r="260" fill="url(#bLilac)"><animate attributeName="cx" values="760;640;760" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="450" r="300" fill="url(#bPeach)"><animate attributeName="cy" values="450;400;450" dur="8s" repeatCount="indefinite"/></circle>
+<path d="M120 141 Q120 150 129 150 Q120 150 120 159 Q120 150 111 150 Q120 150 120 141 Z" fill="#fff"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="0s" repeatCount="indefinite"/></path><path d="M780 113 Q780 120 787 120 Q780 120 780 127 Q780 120 773 120 Q780 120 780 113 Z" fill="#fff"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="1s" repeatCount="indefinite"/></path><path d="M840 250 Q840 260 850 260 Q840 260 840 270 Q840 260 830 260 Q840 260 840 250 Z" fill="#fff"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="2s" repeatCount="indefinite"/></path><path d="M70 294 Q70 300 76 300 Q70 300 70 306 Q70 300 64 300 Q70 300 70 294 Z" fill="#fff"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="1.5s" repeatCount="indefinite"/></path><path d="M700 210 Q700 215 705 215 Q700 215 700 220 Q700 215 695 215 Q700 215 700 210 Z" fill="#fff"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="0.6s" repeatCount="indefinite"/></path><path d="M210 225 Q210 230 215 230 Q210 230 210 235 Q210 230 205 230 Q210 230 210 225 Z" fill="#F75C7E"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="2.2s" repeatCount="indefinite"/></path>
+
+<text x="48" y="48" font-size="18" font-weight="600" fill="#fff">9:41</text>
+<g fill="#fff">
+  <rect x="744" y="42" width="5" height="6" rx="1.5"/><rect x="752" y="39" width="5" height="9" rx="1.5"/>
+  <rect x="760" y="36" width="5" height="12" rx="1.5"/><rect x="768" y="33" width="5" height="15" rx="1.5"/>
+</g>
+<g transform="translate(800 48)" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round">
+  <path d="M-4 -3 Q0 -6 4 -3"/><path d="M-8 -7 Q0 -12 8 -7"/><path d="M-12 -11 Q0 -18 12 -11"/>
+</g>
+<circle cx="800" cy="48" r="2" fill="#fff"/>
+<rect x="824" y="34" width="34" height="15" rx="4.5" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="1.5"/>
+<rect x="827" y="37" width="28" height="9" rx="2.5" fill="#fff"/>
+<rect x="860" y="39" width="2.5" height="5" rx="1" fill="#fff" fill-opacity=".6"/>
+<rect x="390" y="24" width="120" height="38" rx="19" fill="#000">
+  <animate attributeName="x" values="390;330;330;390;390" keyTimes="0;.1;.65;.75;1" dur="9s" repeatCount="indefinite"/>
+  <animate attributeName="width" values="120;240;240;120;120" keyTimes="0;.1;.65;.75;1" dur="9s" repeatCount="indefinite"/>
+</rect>
+<circle cx="354" cy="43" r="5" fill="#34D399" opacity="0">
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.1;.14;.62;.66;1" dur="9s" repeatCount="indefinite"/>
+</circle>
+<text x="456" y="49" text-anchor="middle" font-size="15" font-weight="600" fill="#fff" opacity="0">Open to build
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.1;.14;.62;.66;1" dur="9s" repeatCount="indefinite"/>
+</text>
+<text x="450" y="128" text-anchor="middle" font-size="19" letter-spacing="5" fill="#F75C7E" font-weight="600">HELLO, WORLD</text>
+<text x="450" y="212" text-anchor="middle" font-size="76" font-weight="700" letter-spacing="-2" fill="#fff">Charvee Masand</text>
+<text x="450" y="282" text-anchor="middle" font-size="30" font-weight="500" fill="#FFD1DC" opacity="0">iOS App Developer<animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0.0000;0.0150;0.1850;0.2000;1.0000" values="0;1;1;0;0"/></text>
+<text x="450" y="282" text-anchor="middle" font-size="30" font-weight="500" fill="#FFD1DC" opacity="0">Full Stack Developer<animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0.0000;0.2000;0.2150;0.3850;0.4000;1.0000" values="0;0;1;1;0;0"/></text>
+<text x="450" y="282" text-anchor="middle" font-size="30" font-weight="500" fill="#FFD1DC" opacity="0">AI / ML Enthusiast<animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0.0000;0.4000;0.4150;0.5850;0.6000;1.0000" values="0;0;1;1;0;0"/></text>
+<text x="450" y="282" text-anchor="middle" font-size="30" font-weight="500" fill="#FFD1DC" opacity="0">UI / UX Enthusiast<animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0.0000;0.6000;0.6150;0.7850;0.8000;1.0000" values="0;0;1;1;0;0"/></text>
+<text x="450" y="282" text-anchor="middle" font-size="30" font-weight="500" fill="#FFD1DC" opacity="0">Building Impactful Apps<animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0.0000;0.8000;0.8150;0.9850;1.0000" values="0;0;1;1;0"/></text>
+
+<rect x="140" y="322" width="200" height="44" rx="22" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/><text x="240" y="350" text-anchor="middle" font-size="17" font-weight="500" fill="#fff">Swift · SwiftUI</text><rect x="350" y="322" width="200" height="44" rx="22" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/><text x="450" y="350" text-anchor="middle" font-size="17" font-weight="500" fill="#fff">React · Next.js</text><rect x="560" y="322" width="200" height="44" rx="22" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".14"/><text x="660" y="350" text-anchor="middle" font-size="17" font-weight="500" fill="#fff">AI / ML</text>
+<g fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M438 392 L450 381 L462 392"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 4;0 -4;0 4" dur="2s" repeatCount="indefinite"/></path>
+</g>
+<text x="450" y="412" text-anchor="middle" font-size="13" fill="#fff" fill-opacity=".55" letter-spacing="1">swipe up to explore</text>
+<rect x="380" y="426" width="140" height="5" rx="2.5" fill="#fff" fill-opacity=".75"/>
+</g>
+<rect x=".5" y=".5" width="899" height="439" rx="36" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>
