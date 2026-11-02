@@ -1,156 +1,87 @@
-<!-- 🌸 Elegant Animated Header -->
+<!-- ═════════════ LOCK SCREEN ═════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=320&section=header&text=Charvee%20Masand&fontSize=75&fontColor=8B4F6C&fontAlignY=42&animation=fadeIn&desc=iOS%20Developer%20•%20Full%20Stack%20Developer%20•%20AI/ML%20Enthusiast&descAlignY=60&descSize=20" />
+  <img src="assets/banner.svg" alt="Charvee Masand — iOS Developer, Full Stack Developer, AI/ML Enthusiast" width="100%" />
 </p>
 
-<!-- ✨ Animated Roles -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=900&lines=✨+iOS+App+Developer;💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast;🎨+UI%2FUX+Enthusiast;🚀+Building+Impactful+Apps" />
-</h1>
-
-<!-- 💻 Cute Coding Girl GIF -->
-<p align="center"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="320"/> </p>
-<!-- 🌐 Socials -->
+<!-- ═════════════ DOCK (clickable) ═════════════ -->
 <p align="center">
-  <a href="https://github.com/charveemasand108">
-    <img src="https://img.shields.io/badge/GitHub-Charvee%20Masand-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Charvee%20Masand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:YOURMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-# 💫 About Me
-
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-### 🌸 Hey there! I'm Charvee  
-
-- 📱 iOS App Developer using **Swift & SwiftUI**
-- 🎨 Passionate about crafting beautiful **UI/UX**
-- 💻 Full Stack Developer building modern web apps
-- 🤖 Exploring **AI/ML integrations**
-- 🚀 Love building real-world impactful applications
-- 🌱 Always learning & experimenting with new technologies
-- ✨ Focused on clean design + scalable architecture
-
-<br clear="right"/>
-
----
-
-# 🛠️ Skills & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,c,cpp,java,python,react,nextjs,nodejs,express,js,ts,html,css,tailwind,bootstrap,mongodb,mysql,firebase,supabase,redux,git,github,linux,vscode,figma,docker,postman,vercel,netlify&perline=10" />
-</p>
-
----
-
-# 📱 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 💡 Description | 🛠️ Tech |
-|---|---|---|
-| **LifeGrid** | Productivity & life management app | SwiftUI • Firebase |
-| **SmartSpend** | AI-powered expense tracker | Swift • AI |
-| **FocusFight** | Focus & habit-building app | SwiftUI |
-| **3D Project** | Interactive GSAP web experience | React • GSAP |
-
-</div>
-
----
-
-# 🎓 Certifications
-
-<p align="center">
-
-🏆 **Programming Fundamentals in Swift** — Meta  
-🏆 **UI/UX Design** — IBM  
-🏆 **Version Control** — Meta  
-🏆 **Mobile App Development** — IBM  
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-```yaml
-- Advanced SwiftUI Animations
-- AI Integration in Mobile Apps
-- System Design Basics
-- Clean Architecture
-- Backend Scalability
-```
-
----
-
-
-
-# 📊 GitHub Analytics
-
-  
-  <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=charveemasand108&theme=radical&hide_border=true" 
-    height="180"
-  />
-</p>
-
-
-
-# 🧠 Developer Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charveemasand108&theme=radical" />
+  <a href="https://github.com/charveemasand108"><img src="assets/dock-github.svg" alt="GitHub" width="96" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/charvee108/"><img src="assets/dock-linkedin.svg" alt="LinkedIn" width="96" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOURMAIL@gmail.com"><img src="assets/dock-mail.svg" alt="Email" width="96" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charveemasand108&theme=radical" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charveemasand108&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=charveemasand108&label=Profile%20Views&color=F75C7E&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/charveemasand108?label=Followers&style=flat-square&color=F75C7E" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/charveemasand108?label=Stars&style=flat-square&color=F75C7E" alt="Stars" />
+</p>
+
+<br/>
+
+<!-- ═════════════ CONTROL CENTER ═════════════ -->
+<p align="center">
+  <img src="assets/about.svg" alt="About Charvee — Control Center" width="100%" />
+</p>
+
+<br/>
+
+<!-- ═════════════ SETTINGS ═════════════ -->
+<p align="center">
+  <img src="assets/stack.svg" alt="Tech stack — Settings" width="100%" />
+</p>
+
+<br/>
+
+<!-- ═════════════ HOME SCREEN ═════════════ -->
+<p align="center">
+  <img src="assets/projects.svg" alt="Projects — Home Screen: LifeGrid, SmartSpend, FocusFight, 3D Experience" width="100%" />
+</p>
+
+<!-- ⚠️ Change these repo names to your real repos -->
+<p align="center">
+  <a href="https://github.com/charveemasand108/LifeGrid"><img src="https://img.shields.io/badge/Open-LifeGrid-F75C7E?style=for-the-badge&logo=swift&logoColor=white" alt="LifeGrid" /></a>
+  <a href="https://github.com/charveemasand108/SmartSpend"><img src="https://img.shields.io/badge/Open-SmartSpend-14998F?style=for-the-badge&logo=swift&logoColor=white" alt="SmartSpend" /></a>
+  <a href="https://github.com/charveemasand108/FocusFight"><img src="https://img.shields.io/badge/Open-FocusFight-FF4E6B?style=for-the-badge&logo=swift&logoColor=white" alt="FocusFight" /></a>
+  <a href="https://github.com/charveemasand108/3D-Experience"><img src="https://img.shields.io/badge/Open-3D%20Experience-4C6FFF?style=for-the-badge&logo=react&logoColor=white" alt="3D Experience" /></a>
+</p>
+
+<br/>
+
+<!-- ═════════════ WALLET ═════════════ -->
+<p align="center">
+  <img src="assets/wallet.svg" alt="Certifications — Meta and IBM" width="100%" />
+</p>
+
+<br/>
+
+<!-- ═════════════ STATS (themed to match) ═════════════ -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=charveemasand108&show_icons=true&hide_border=true&count_private=true&border_radius=24&bg_color=1b1022&title_color=F75C7E&text_color=FFD1DC&icon_color=F75C7E&ring_color=F75C7E" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charveemasand108&layout=compact&hide_border=true&langs_count=8&border_radius=24&bg_color=1b1022&title_color=F75C7E&text_color=FFD1DC" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charveemasand108&theme=radical" />
+  <img height="180" src="https://streak-stats.demolab.com?user=charveemasand108&hide_border=true&border_radius=24&background=1b1022&ring=F75C7E&fire=FFB199&currStreakNum=FFD1DC&sideNums=FFD1DC&currStreakLabel=F75C7E&sideLabels=F75C7E&dates=B79CED" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&hide_border=true&bg_color=1b1022&color=FFD1DC&line=F75C7E&point=FFFFFF&area=true&area_color=F75C7E&radius=24" alt="Contribution activity" width="100%" />
 </p>
 
----
-
-# 🐍 Contribution Snake
-
+<!-- ═════════════ SNAKE (needs .github/workflows/snake.yml) ═════════════ -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charveemasand108/charveemasand108/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charveemasand108/charveemasand108/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/charveemasand108/charveemasand108/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
----
+<br/>
 
-# ✨ Quote I Live By
-
+<!-- ═════════════ FOOTER ═════════════ -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="assets/footer.svg" alt="Designed and built by Charvee" width="100%" />
 </p>
-
----
-
-
-
-<p align="center">
-  
-### 💖 Thanks for visiting my profile 💖
-
-✨ *Building beautiful digital experiences one app at a time* ✨
-
-</p> 
