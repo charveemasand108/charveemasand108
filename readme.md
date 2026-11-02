@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charveemasand108&hide_border=true&bg_color=1b1022&color=FFD1DC&line=F75C7E&point=FFFFFF&area=true&area_color=F75C7E&radius=24" alt="Contribution activity" width="100%" />
+  <img src="https://ghchart.rshah.org/F75C7E/charveemasand108" alt="Contribution graph" width="90%" />
 </p>
 
 <!-- ═════════════ SNAKE (needs .github/workflows/snake.yml) ═════════════ -->
